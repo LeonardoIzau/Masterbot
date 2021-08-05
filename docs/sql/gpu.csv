@@ -1,0 +1,1001 @@
+index,brand,model,chipset,vram,core_clock,boost_clock,color,length,price
+0,AMD,100-505724,"FirePro W7100","{'total': 8000000000}","{'cycles': 824000000}",NULL,"Black / Red",279,NULL
+1,AMD,100-505841,"FirePro 2450","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+2,AMD,100-505956,"Radeon Pro WX 8200","{'total': 8000000000}","{'cycles': 1200000000}","{'cycles': 1530000000}",Blue,267,NULL
+3,AMD,100-505957,"Radeon Pro WX 9100","{'total': 16000000000}","{'cycles': 1200000000}","{'cycles': 1500000000}",Blue,267,NULL
+4,AMD,100-505989,"FirePro W9100","{'total': 32000000000}","{'cycles': 930000000}",NULL,"Black / Red",275,NULL
+5,AMD,100-505999,"Radeon Pro WX 3100","{'total': 4000000000}","{'cycles': 925000000}","{'cycles': 1219000000}",Blue,145,NULL
+6,AMD,100-506001,"Radeon Pro WX 2100","{'total': 2000000000}","{'cycles': 925000000}","{'cycles': 1219000000}",Blue,145,NULL
+7,AMD,100-506048,"Radeon Pro Duo Polaris","{'total': 32000000000}","{'cycles': 1243000000}",NULL,Blue,305,NULL
+8,AMD,100-506061,"Vega Frontier Edition","{'total': 16000000000}","{'cycles': 1440000000}","{'cycles': 1600000000}","Blue / Gold",267,NULL
+9,AMD,100-506062,"Vega Frontier Edition Liquid","{'total': 16000000000}","{'cycles': 1500000000}","{'cycles': 1600000000}","Gold / Blue",267,NULL
+10,AMD,100-506085,"Radeon Pro W5700","{'total': 8000000000}","{'cycles': 1243000000}","{'cycles': 1930000000}","Blue / Silver",267,NULL
+11,AMD,100-506095,"Radeon Pro W5500","{'total': 8000000000}","{'cycles': 1354000000}","{'cycles': 1900000000}","Blue / White",241.3,NULL
+12,AMD,100-506115,"Radeon Pro WX 3200","{'total': 4000000000}","{'cycles': 1250000000}","{'cycles': 1290000000}","Blue / Black",167.64,NULL
+13,AMD,100-506163,"Radeon Pro VII","{'total': 16000000000}","{'cycles': 1400000000}","{'cycles': 1700000000}","Blue / Silver",305,NULL
+14,AMD,310455937500,"Radeon HD 6770","{'total': 1000000000}",NULL,NULL,NULL,NULL,NULL
+15,AMD,"FirePro 2270","FirePro 2270","{'total': 1000000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+16,AMD,"FirePro 2270","FirePro 2270","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+17,AMD,"FirePro 2270","FirePro 2270","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+18,AMD,"FirePro 2450","FirePro 2450","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+19,AMD,"FirePro 2460","FirePro 2460","{'total': 500000000}",NULL,NULL,"Black / Red",NULL,NULL
+20,AMD,"FirePro 2460","FirePro 2460","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+21,AMD,"FirePro R5000","FirePro R5000","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",279,NULL
+22,AMD,"FirePro RG220A","FirePro RG220A","{'total': 500000000}","{'cycles': 500000000}",NULL,"Black / Red",168,NULL
+23,AMD,"FirePro S7000","FirePro S7000","{'total': 4000000000}","{'cycles': 950000000}",NULL,"Black / Silver",292,NULL
+24,AMD,"FirePro S9050","FirePro S9050","{'total': 12000000000}","{'cycles': 900000000}",NULL,"Black / Silver",254,NULL
+25,AMD,"FirePro S9150","FirePro S9150","{'total': 16000000000}","{'cycles': 900000000}",NULL,"Black / White",267,NULL
+26,AMD,"FirePro V3900","FirePro V3900","{'total': 1000000000}","{'cycles': 650000000}",NULL,"Black / Red",168,NULL
+27,AMD,"FirePro V4900","FirePro V4900","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Red",163,NULL
+28,AMD,"FirePro V5800","FirePro V5800","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Red",229,NULL
+29,AMD,"FirePro V5900","FirePro V5900","{'total': 2000000000}","{'cycles': 600000000}",NULL,"Black / Red",230,NULL
+30,AMD,"FirePro V7900","FirePro V7900","{'total': 2000000000}","{'cycles': 725000000}",NULL,"Black / Red",279,NULL
+31,AMD,"FirePro V7900 SDI","FirePro V7900 SDI","{'total': 2000000000}","{'cycles': 725000000}",NULL,"Black / Red",279,NULL
+32,AMD,"FirePro W2100","FirePro W2100","{'total': 2000000000}","{'cycles': 630000000}",NULL,"Black / Red",NULL,NULL
+33,AMD,"FirePro W4100","FirePro W4100","{'total': 2000000000}","{'cycles': 630000000}",NULL,"Black / Red",171,NULL
+34,AMD,"FirePro W5000","FirePro W5000","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",191,NULL
+35,AMD,"FirePro W5100","FirePro W5100","{'total': 4000000000}","{'cycles': 930000000}",NULL,"Black / Red",171,NULL
+36,AMD,"FirePro W600","FirePro W600","{'total': 2000000000}","{'cycles': 600000000}",NULL,"Black / Red",163,NULL
+37,AMD,"FirePro W7000","FirePro W7000","{'total': 4000000000}","{'cycles': 950000000}",NULL,"Black / Red",242,NULL
+38,AMD,"FirePro W8000","FirePro W8000","{'total': 4000000000}","{'cycles': 900000000}",NULL,"Black / Red",279,NULL
+39,AMD,"FirePro W8100","FirePro W8100","{'total': 8000000000}","{'cycles': 824000000}",NULL,"Black / Red",279,NULL
+40,AMD,"FirePro W9000","FirePro W9000","{'total': 6000000000}","{'cycles': 975000000}",NULL,"Black / Red",279,NULL
+41,AMD,"FirePro W9100","FirePro W9100","{'total': 16000000000}","{'cycles': 930000000}",NULL,"Black / Red",275,NULL
+42,AMD,"RADEON PRO WX 4100","Radeon Pro WX 4100","{'total': 4000000000}","{'cycles': 925000000}","{'cycles': 975000000}",Blue,168,NULL
+43,AMD,"RADEON PRO WX 5100","Radeon Pro WX 5100","{'total': 8000000000}","{'cycles': 926000000}","{'cycles': 1206000000}",Blue,173,NULL
+44,AMD,"RADEON PRO WX 7100","Radeon Pro WX 7100","{'total': 8000000000}","{'cycles': 900000000}","{'cycles': 1080000000}",Blue,242,NULL
+45,ASRock,"Challenger D OC","Radeon RX 5500 XT","{'total': 4000000000}","{'cycles': 1685000000}","{'cycles': 1845000000}","Black / Yellow",241,NULL
+46,ASRock,"Challenger D OC","Radeon RX 5700","{'total': 8000000000}","{'cycles': 1515000000}","{'cycles': 1750000000}","Black / Yellow",281,NULL
+47,ASRock,"Challenger D OC","Radeon RX 5700","{'total': 8000000000}","{'cycles': 1515000000}","{'cycles': 1725000000}","Black / Yellow",281,NULL
+48,ASRock,"Challenger D OC","Radeon RX 5500 XT","{'total': 8000000000}","{'cycles': 1685000000}","{'cycles': 1845000000}","Black / Yellow",241,NULL
+49,ASRock,"Challenger D OC","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1905000000}","Black / Yellow",281,NULL
+50,ASRock,"Challenger D OC","Radeon RX 5600 XT","{'total': 6000000000}","{'cycles': 1235000000}","{'cycles': 1620000000}","Black / Silver",240.5,NULL
+51,ASRock,"Challenger ITX","Radeon RX 5500 XT","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1845000000}",Black,190,NULL
+52,ASRock,"Challenger Pro OC","Radeon RX 6800","{'total': 16000000000}","{'cycles': 1700000000}",NULL,"Black / Silver",303,NULL
+53,ASRock,"Challenger Pro OC","Radeon RX 5600 XT","{'total': 6000000000}","{'cycles': 1420000000}","{'cycles': 1750000000}",Black,279.93,NULL
+54,ASRock,"Challenger Pro OC","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1580000000}","{'cycles': 1905000000}","Black / Gray",291,NULL
+55,ASRock,"Phantom Gaming","Radeon RX VEGA 64","{'total': 8000000000}","{'cycles': 1247000000}","{'cycles': 1546000000}","Black / Red",280,NULL
+56,ASRock,"Phantom Gaming","Radeon RX 550 - 512","{'total': 2000000000}","{'cycles': 1183000000}",NULL,"Black / Silver",170,NULL
+57,ASRock,"Phantom Gaming","Radeon RX 560 - 896","{'total': 4000000000}","{'cycles': 1176000000}",NULL,"Black / Silver",170,NULL
+58,ASRock,"Phantom Gaming D","Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1370000000}","Black / Silver",236.2,NULL
+59,ASRock,"Phantom Gaming D","Radeon RX 570","{'total': 4000000000}","{'cycles': 1168000000}","{'cycles': 1244000000}",Black,236.2,NULL
+60,ASRock,"Phantom Gaming D","Radeon RX 570","{'total': 8000000000}","{'cycles': 1168000000}","{'cycles': 1270000000}",Black,236.2,NULL
+61,ASRock,"Phantom Gaming D OC","Radeon RX 5700","{'total': 8000000000}","{'cycles': 1610000000}","{'cycles': 1750000000}","Black / Red",286.91,NULL
+62,ASRock,"Phantom Gaming D OC","Radeon RX 5500 XT","{'total': 8000000000}","{'cycles': 1685000000}","{'cycles': 1845000000}","Silver / Red",240.57,NULL
+63,ASRock,"Phantom Gaming D OC","Radeon RX 6800 XT","{'total': 16000000000}","{'cycles': 1825000000}",NULL,"Black / Silver",330,NULL
+64,ASRock,"Phantom Gaming D OC","Radeon RX 5600 XT","{'total': 6000000000}","{'cycles': 1280000000}","{'cycles': 1620000000}","Black / Red",240.3,NULL
+65,ASRock,"Phantom Gaming D OC","Radeon RX 5600 XT","{'total': 6000000000}","{'cycles': 1355000000}","{'cycles': 1620000000}","Black / Red",290.6,NULL
+66,ASRock,"Phantom Gaming D OC","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1690000000}","{'cycles': 1945000000}","Black / Red",286.91,NULL
+67,ASRock,"Phantom Gaming D OC","Radeon RX 6800","{'total': 16000000000}","{'cycles': 1700000000}",NULL,"Black / Silver",305,NULL
+68,ASRock,"Phantom Gaming U OC","Radeon RX 590","{'total': 8000000000}","{'cycles': 1469000000}","{'cycles': 1560000000}",Black,278.81,NULL
+69,ASRock,"Phantom Gaming X","Radeon VII","{'total': 16000000000}","{'cycles': 1400000000}","{'cycles': 1750000000}",Silver,280,NULL
+70,ASRock,"Phantom Gaming X","Radeon RX 570","{'total': 8000000000}","{'cycles': 1228000000}","{'cycles': 1331000000}","Black / Silver",279,NULL
+71,ASRock,"Phantom Gaming X","Radeon RX 590","{'total': 8000000000}","{'cycles': 1469000000}","{'cycles': 1560000000}","Black / Red",278.81,NULL
+72,ASRock,"Phantom Gaming X","Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1380000000}","Black / Silver",278.81,NULL
+73,ASRock,"Phantom Gaming X","Radeon RX 570","{'total': 4000000000}","{'cycles': 1228000000}","{'cycles': 1331000000}","Black / Silver",216,NULL
+74,ASRock,"Phantom Gaming X","Radeon RX VEGA 56","{'total': 8000000000}","{'cycles': 1156000000}","{'cycles': 1471000000}","Black / Red",280,NULL
+75,ASRock,"RX5700 XT 8G","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1605000000}","{'cycles': 1905000000}","Silver / Black",284.8,NULL
+76,ASRock,"Radeon RX 5700 8G","Radeon RX 5700","{'total': 8000000000}","{'cycles': 1465000000}","{'cycles': 1765000000}",NULL,280.85,NULL
+77,ASRock,"Radeon RX 5700 XT 8G","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1605000000}","{'cycles': 1905000000}",Silver,284.8,NULL
+78,ASRock,"Radeon RX 6800 16G","Radeon RX 6800","{'total': 16000000000}","{'cycles': 1700000000}","{'cycles': 2105000000}","Black / Silver",267,NULL
+79,ASRock,"Radeon RX 6800 XT 16G","Radeon RX 6800 XT","{'total': 16000000000}","{'cycles': 1825000000}","{'cycles': 2250000000}","Black / Silver",267,NULL
+80,ASRock,"Taichi X OC","Radeon RX 6800 XT","{'total': 16000000000}","{'cycles': 1825000000}",NULL,Black,330,NULL
+81,ASRock,"Taichi X OC+","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1810000000}","{'cycles': 2025000000}","Black / Gold",324.35,NULL
+82,ATI,100-505144,"FireGL V7300","{'total': 500000000}",NULL,NULL,"Red / White",NULL,NULL
+83,ATI,100-505532,"FirePro 2450","{'total': 500000000}",NULL,NULL,"Black / Red",NULL,NULL
+84,ATI,100-505553,"FirePro V5700","{'total': 500000000}",NULL,NULL,"Black / Red",NULL,NULL
+85,ATI,100-505588,"FirePro 2450","{'total': 500000000}",NULL,NULL,"Black / Red",NULL,NULL
+86,ATI,100-505602,"FirePro V9800","{'total': 4000000000}",NULL,NULL,"Black / Red",NULL,NULL
+87,ATI,100-505610,"FirePro 2460","{'total': 500000000}",NULL,NULL,"Black / Red",NULL,NULL
+88,ATI,100-505637,"FirePro V3900","{'total': 1000000000}",NULL,NULL,"Black / Red",NULL,NULL
+89,ATI,100-505647,"FirePro V7900","{'total': 2000000000}",NULL,NULL,"Black / Red",NULL,NULL
+90,ATI,100-505648,"FirePro V5900","{'total': 2000000000}",NULL,NULL,"Black / Red",NULL,NULL
+91,ATI,100-505649,"FirePro V4900","{'total': 1000000000}",NULL,NULL,"Black / Red",NULL,NULL
+92,ATI,100-505682,"FirePro V5800","{'total': 1000000000}",NULL,NULL,"Black / Red",NULL,NULL
+93,ATI,608528-002,"FirePro V3800","{'total': 500000000}",NULL,NULL,"Black / Red",NULL,NULL
+94,ATI,"FirePro 2270","FirePro 2270","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+95,ATI,"FirePro 2270","FirePro 2270","{'total': 1000000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+96,ATI,"FirePro 2270","FirePro 2270","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+97,ATI,"FirePro 2270","FirePro 2270","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+98,ATI,"FirePro 2450","FirePro 2450","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+99,ATI,"FirePro 2450 Multi-View","FirePro 2450","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",168,NULL
+100,ATI,"FirePro 2460","FirePro 2460","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+101,ATI,"FirePro 2460","FirePro 2460","{'total': 500000000}","{'cycles': 600000000}",NULL,"Black / Red",170,NULL
+102,ATI,"FirePro R5000","FirePro R5000","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",279,NULL
+103,ATI,"FirePro RG220A","FirePro RG220A","{'total': 500000000}","{'cycles': 800000000}",NULL,"Black / Red",168,NULL
+104,ATI,"FirePro S10000","FirePro S10000","{'total': 6000000000}","{'cycles': 825000000}",NULL,"Black / Red",305,NULL
+105,ATI,"FirePro S7000","FirePro S7000","{'total': 4000000000}","{'cycles': 950000000}",NULL,"Black / Silver",292,NULL
+106,ATI,"FirePro S9000","FirePro S9000","{'total': 6000000000}","{'cycles': 900000000}",NULL,"Black / Red",267,NULL
+107,ATI,"FirePro S9050","FirePro S9050","{'total': 12000000000}","{'cycles': 900000000}",NULL,"Black / Silver",254,NULL
+108,ATI,"FirePro S9150","FirePro S9150","{'total': 16000000000}","{'cycles': 900000000}",NULL,"Black / White",267,NULL
+109,ATI,"FirePro V3800","FirePro V3800","{'total': 500000000}","{'cycles': 650000000}",NULL,"Black / Red",168,NULL
+110,ATI,"FirePro V3900","FirePro V3900","{'total': 1000000000}","{'cycles': 650000000}",NULL,"Black / Red",168,NULL
+111,ATI,"FirePro V4900","FirePro V4900","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Red",163,NULL
+112,ATI,"FirePro V5800","FirePro V5800","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Red",229,NULL
+113,ATI,"FirePro V5900","FirePro V5900","{'total': 2000000000}","{'cycles': 600000000}",NULL,"Black / Red",230,NULL
+114,ATI,"FirePro V7750","FirePro V7750","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Red",234,NULL
+115,ATI,"FirePro V7900","FirePro V7900","{'total': 2000000000}","{'cycles': 725000000}",NULL,"Black / Red",279,NULL
+116,ATI,"FirePro V7900 SDI","FirePro V7900 SDI","{'total': 2000000000}","{'cycles': 725000000}",NULL,"Black / Red",279,NULL
+117,ATI,"FirePro V8750","FirePro V8750","{'total': 2000000000}","{'cycles': 750000000}",NULL,"Black / Red",254,NULL
+118,ATI,"FirePro V8800","FirePro V8800","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",267,NULL
+119,ATI,"FirePro W2100","FirePro W2100","{'total': 2000000000}","{'cycles': 630000000}",NULL,"Black / Red",NULL,NULL
+120,ATI,"FirePro W4100","FirePro W4100","{'total': 2000000000}","{'cycles': 630000000}",NULL,"Black / Red",171,NULL
+121,ATI,"FirePro W5000","FirePro W5000","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",183,NULL
+122,ATI,"FirePro W5000","FirePro W5000","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",191,NULL
+123,ATI,"FirePro W5000","FirePro W5000","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",183,NULL
+124,ATI,"FirePro W5000 DVI","FirePro W5000","{'total': 2000000000}","{'cycles': 825000000}",NULL,"Black / Red",191,NULL
+125,ATI,"FirePro W600","FirePro W600","{'total': 2000000000}","{'cycles': 600000000}",NULL,"Black / Red",163,NULL
+126,ATI,"FirePro W600","FirePro W600","{'total': 2000000000}","{'cycles': 600000000}",NULL,"Black / Red",163,NULL
+127,ATI,"FirePro W7000","FirePro W7000","{'total': 4000000000}","{'cycles': 950000000}",NULL,"Black / Red",242,NULL
+128,ATI,"FirePro W7000","FirePro W7000","{'total': 4000000000}","{'cycles': 950000000}",NULL,"Black / Red",242,NULL
+129,ATI,"FirePro W8000","FirePro W8000","{'total': 4000000000}","{'cycles': 900000000}",NULL,"Black / Red",279,NULL
+130,ATI,"FirePro W8100","FirePro W8100","{'total': 8000000000}","{'cycles': 824000000}",NULL,"Black / Red",279,NULL
+131,ATI,"FirePro W9000","FirePro W9000","{'total': 6000000000}","{'cycles': 975000000}",NULL,"Black / Red",279,NULL
+132,ATI,"FirePro W9100","FirePro W9100","{'total': 16000000000}","{'cycles': 930000000}",NULL,"Black / Red",275,NULL
+133,Asus,"20th Anniversary Gold Edition","GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1266000000}","{'cycles': 1367000000}","Black / Gold",295,NULL
+134,Asus,"20th Anniversary Gold Edition","GeForce GTX 980","{'total': 4000000000}","{'cycles': 1317000000}","{'cycles': 1431000000}","Black / Gold",297,NULL
+135,Asus,210-SL-512MD3-L,"GeForce 210","{'total': 500000000}","{'cycles': 589000000}",NULL,"Black / Blue",177,NULL
+136,Asus,710-1-SL,"GeForce GT 710","{'total': 1000000000}","{'cycles': 954000000}",NULL,"Blue / Silver",134,NULL
+137,Asus,710-2-SL-CSM,"GeForce GT 710","{'total': 2000000000}","{'cycles': 954000000}",NULL,"Blue / Silver",135,NULL
+138,Asus,90YV06X3-M0NA00,"GeForce GTX 750","{'total': 2000000000}","{'cycles': 1020000000}","{'cycles': 1085000000}","Black / Red",200,NULL
+139,Asus,90YV0810-U0NA00,"GeForce GTX Titan X","{'total': 12000000000}","{'cycles': 1000000000}","{'cycles': 1075000000}","Black / Silver",282,NULL
+140,Asus,90YV09Z0-U0NA00,"Radeon RX 480","{'total': 8000000000}","{'cycles': 1120000000}","{'cycles': 1266000000}","Black / Red",242,NULL
+141,Asus,ARES/2DIS/4GD5,"Radeon HD 5870 X2","{'total': 4000000000}","{'cycles': 850000000}",NULL,"Black / Red",279,NULL
+142,Asus,AREZ,"Radeon RX 550 - 640","{'total': 2000000000}","{'cycles': 1071000000}","{'cycles': 1206000000}",Black,192,NULL
+143,Asus,AREZ,"Radeon RX 560 - 896","{'total': 2000000000}","{'cycles': 1149000000}","{'cycles': 1197000000}",NULL,220,NULL
+144,Asus,"AREZ Dual OC","Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1380000000}",NULL,242,NULL
+145,Asus,"AREZ Expedition","Radeon RX 570","{'total': 8000000000}","{'cycles': 1168000000}","{'cycles': 1266000000}","Black / Red",240,NULL
+146,Asus,"AREZ OC","Radeon RX 560 - 896","{'total': 4000000000}","{'cycles': 1149000000}","{'cycles': 1197000000}","Black / Red",221,NULL
+147,Asus,"AREZ STRIX","Radeon RX VEGA 56","{'total': 8000000000}","{'cycles': 1297000000}","{'cycles': 1573000000}",Black,298,NULL
+148,Asus,"AREZ STRIX OC","Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1380000000}",Black,298,NULL
+149,Asus,"AREZ STRIX OC","Radeon RX 570","{'total': 4000000000}","{'cycles': 1168000000}","{'cycles': 1310000000}",Black,240,NULL
+150,Asus,"AREZ STRIX OC Edition","Radeon RX VEGA 64","{'total': 8000000000}","{'cycles': 1247000000}","{'cycles': 1590000000}",NULL,298,NULL
+151,Asus,CERBERUS,"GeForce GTX 1050 Ti","{'total': 4000000000}","{'cycles': 1328000000}","{'cycles': 1442000000}","Black / Red",203,NULL
+152,Asus,CERBERUS,"GeForce GTX 1050 Ti","{'total': 4000000000}","{'cycles': 1341000000}","{'cycles': 1480000000}","Black / Red",203,NULL
+153,Asus,CERBERUS,"GeForce GTX 1070 Ti","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1746000000}","Black / Red",270,NULL
+154,Asus,CERBERUS,"GeForce GTX 1050","{'total': 2000000000}","{'cycles': 1404000000}","{'cycles': 1544000000}","Black / Red",203,NULL
+155,Asus,DUAL,"GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1594000000}","{'cycles': 1809000000}",White,242,NULL
+156,Asus,DUAL,"GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}",NULL,"Black / White",268,NULL
+157,Asus,DUAL,"Radeon RX 580","{'total': 4000000000}","{'cycles': 1257000000}","{'cycles': 1360000000}","Black / White",242,NULL
+158,Asus,DUAL,"GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1650000000}","Black / White",268,NULL
+159,Asus,DUAL,"Radeon RX 480","{'total': 4000000000}","{'cycles': 1120000000}","{'cycles': 1286000000}",White,242,NULL
+160,Asus,DUAL,"GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1800000000}","Black / White",215,NULL
+161,Asus,DUAL,"GeForce GTX 1050","{'total': 2000000000}","{'cycles': 1345000000}","{'cycles': 1455000000}","White / Blue",212,NULL
+162,Asus,DUAL,"GeForce GTX 1050 Ti","{'total': 4000000000}","{'cycles': 1290000000}","{'cycles': 1392000000}","White / Blue",212,NULL
+163,Asus,DUAL,"GeForce GTX 1050","{'total': 2000000000}","{'cycles': 1404000000}","{'cycles': 1518000000}","White / Blue",212,NULL
+164,Asus,DUAL,"GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}",NULL,Black,268,NULL
+165,Asus,DUAL,"Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1380000000}","Black / Silver",242,NULL
+166,Asus,DUAL,"GeForce RTX 3070","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1755000000}",Black,267,NULL
+167,Asus,DUAL,"GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}","{'cycles': 1560000000}","Black / White",268,NULL
+168,Asus,DUAL,"GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1680000000}","Black / Silver",270,NULL
+169,Asus,DUAL,"Radeon RX 480","{'total': 4000000000}","{'cycles': 1120000000}","{'cycles': 1320000000}","White / Black",242,NULL
+170,Asus,DUAL,"GeForce GTX 1060 3GB","{'total': 3000000000}","{'cycles': 1594000000}","{'cycles': 1809000000}",White,242,NULL
+171,Asus,DUAL,"Radeon RX 460","{'total': 2000000000}","{'cycles': 1090000000}","{'cycles': 1220000000}","White / Blue",204,NULL
+172,Asus,DUAL,"Radeon RX 580","{'total': 4000000000}","{'cycles': 1257000000}","{'cycles': 1380000000}","Black / White",242,NULL
+173,Asus,"DUAL Advanced","GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}","{'cycles': 1560000000}","Black / White",268,NULL
+174,Asus,"DUAL Advanced","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1665000000}","Black / White",268,NULL
+175,Asus,"DUAL Advanced","GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}",NULL,"Black / White",268,NULL
+176,Asus,"DUAL Advanced","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1680000000}","Black / Silver",270,NULL
+177,Asus,"DUAL EVO","GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}","{'cycles': 1740000000}",Black,267,NULL
+178,Asus,"DUAL EVO","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1650000000}",Black,267,NULL
+179,Asus,"DUAL EVO","GeForce RTX 2070 SUPER","{'total': 8000000000}","{'cycles': 1635000000}","{'cycles': 1800000000}",Black,267,NULL
+180,Asus,"DUAL EVO","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1845000000}",Black,267,NULL
+181,Asus,"DUAL EVO","GeForce RTX 2060 SUPER","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1680000000}",Black,267,NULL
+182,Asus,"DUAL EVO Advanced","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1725000000}",Black,242,NULL
+183,Asus,"DUAL EVO Advanced","GeForce RTX 2060 SUPER","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1695000000}",Black,267,NULL
+184,Asus,"DUAL EVO Advanced","GeForce RTX 2070 SUPER","{'total': 8000000000}","{'cycles': 1635000000}","{'cycles': 1815000000}",Black,267,NULL
+185,Asus,"DUAL EVO OC","Radeon RX 5500 XT","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1865000000}",Black,242,NULL
+186,Asus,"DUAL EVO OC","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1860000000}",Black,267,NULL
+187,Asus,"DUAL EVO OC","GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}","{'cycles': 1830000000}",Black,267,NULL
+188,Asus,"DUAL EVO OC","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1860000000}",Black,242,NULL
+189,Asus,"DUAL EVO OC","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1740000000}",Black,267,NULL
+190,Asus,"DUAL EVO OC","GeForce RTX 2060 SUPER","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1725000000}",Black,267,NULL
+191,Asus,"DUAL EVO OC","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1785000000}",Black,242,NULL
+192,Asus,"DUAL EVO OC","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1860000000}",Black,267,NULL
+193,Asus,"DUAL EVO OC","GeForce RTX 2070 SUPER","{'total': 8000000000}","{'cycles': 1635000000}","{'cycles': 1845000000}",Black,267,NULL
+194,Asus,"DUAL EVO OC","Radeon RX 5700","{'total': 8000000000}","{'cycles': 1515000000}","{'cycles': 1750000000}",Black,271,NULL
+195,Asus,"DUAL EVO OC V2","GeForce RTX 2060 SUPER","{'total': 8000000000}","{'cycles': 1470000000}","{'cycles': 1725000000}",Black,242,NULL
+196,Asus,"DUAL EVO OC V2","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1740000000}",Black,242,NULL
+197,Asus,"DUAL MINI OC","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1860000000}",Black,197,NULL
+198,Asus,"DUAL MINI OC","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1680000000}",Black,197,NULL
+199,Asus,"DUAL MINI OC","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1750000000}",Black,197,NULL
+200,Asus,"DUAL OC","GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}",NULL,Black,268,NULL
+201,Asus,"DUAL OC","GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1830000000}","Black / White",215,NULL
+202,Asus,"DUAL OC","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1740000000}","Black / White",268,NULL
+203,Asus,"DUAL OC","Radeon RX 480","{'total': 8000000000}","{'cycles': 1120000000}","{'cycles': 1325000000}",White,242,NULL
+204,Asus,"DUAL OC","GeForce GTX 1650","{'total': 4000000000}","{'cycles': 1485000000}","{'cycles': 1755000000}","Silver / Black",204,NULL
+205,Asus,"DUAL OC","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1785000000}","Black / Silver",270,NULL
+206,Asus,"DUAL OC","GeForce RTX 3070","{'total': 8000000000}","{'cycles': 1500000000}",NULL,Black,267,NULL
+207,Asus,"DUAL OC","Radeon RX 460","{'total': 2000000000}","{'cycles': 1090000000}","{'cycles': 1244000000}","White / Blue",204,NULL
+208,Asus,"DirectCU II","Radeon R9 280X","{'total': 3000000000}","{'cycles': 1070000000}",NULL,"Black / Red",284,NULL
+209,Asus,"DirectCU II","Radeon R9 270X","{'total': 4000000000}","{'cycles': 1120000000}",NULL,"Black / Red",271,NULL
+210,Asus,"DirectCU II","Radeon R9 270X","{'total': 2000000000}","{'cycles': 1050000000}","{'cycles': 1000000000}","Black / Red",272,NULL
+211,Asus,"DirectCU II","Radeon R9 280X","{'total': 3000000000}","{'cycles': 850000000}","{'cycles': 1000000000}","Black / Red",285,NULL
+212,Asus,"DirectCU II","GeForce GTX 770","{'total': 4000000000}","{'cycles': 1058000000}","{'cycles': 1110000000}","Black / Red",271,NULL
+213,Asus,"DirectCU II","Radeon R9 270","{'total': 2000000000}","{'cycles': 950000000}","{'cycles': 975000000}","Black / Red",233,NULL
+214,Asus,"DirectCU II","GeForce GTX 770","{'total': 2000000000}","{'cycles': 1058000000}",NULL,"Black / Red",271,NULL
+215,Asus,"DirectCU II","GeForce GTX 780 Ti","{'total': 3000000000}","{'cycles': 954000000}","{'cycles': 1020000000}","Black / Red",287,NULL
+216,Asus,"DirectCU II","Radeon R7 260X","{'total': 2000000000}","{'cycles': 1188000000}",NULL,"Black / Red",215,NULL
+217,Asus,"DirectCU II","GeForce GTX 780","{'total': 3000000000}","{'cycles': 889000000}","{'cycles': 941000000}","Black / Red",287,NULL
+218,Asus,"DirectCU II","GeForce GTX 760 X2","{'total': 4000000000}","{'cycles': 1006000000}","{'cycles': 1072000000}","Black / Red",279,NULL
+219,Asus,"DirectCU II","GeForce GTX 760","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Red",218,NULL
+220,Asus,"DirectCU II","GeForce GTX 760","{'total': 2000000000}","{'cycles': 980000000}","{'cycles': 1033000000}","Black / Red",220,NULL
+221,Asus,"DirectCU II","Radeon R9 290","{'total': 4000000000}","{'cycles': 947000000}",NULL,"Black / Red",287,NULL
+222,Asus,"DirectCU II","Radeon R7 260X","{'total': 1000000000}","{'cycles': 1075000000}",NULL,"Black / Red",216,NULL
+223,Asus,"DirectCU II","Radeon R9 290","{'total': 4000000000}","{'cycles': 1000000000}",NULL,"Black / Red",287,NULL
+224,Asus,"DirectCU II","Radeon R9 290X","{'total': 4000000000}","{'cycles': 1050000000}",NULL,"Black / Silver",287,NULL
+225,Asus,"DirectCU II","Radeon R7 260","{'total': 1000000000}","{'cycles': 1000000000}",NULL,"Black / Red",220,NULL
+226,Asus,"DirectCU II","GeForce GTX 780","{'total': 3000000000}","{'cycles': 863000000}","{'cycles': 902000000}","Black / Red",287,NULL
+227,Asus,"DirectCU II","Radeon R9 270X","{'total': 2000000000}","{'cycles': 1120000000}",NULL,"Black / Red",271,NULL
+228,Asus,"DirectCU II","GeForce GTX 760","{'total': 2000000000}","{'cycles': 980000000}","{'cycles': 1033000000}","Black / Red",218,NULL
+229,Asus,"DirectCU II","Radeon R9 290X","{'total': 4000000000}","{'cycles': 1000000000}",NULL,"Black / Red",287,NULL
+230,Asus,"DirectCU II","Radeon R9 280","{'total': 3000000000}","{'cycles': 874000000}","{'cycles': 980000000}","Black / Red",284,NULL
+231,Asus,"DirectCU II","Radeon R9 280X","{'total': 3000000000}","{'cycles': 850000000}","{'cycles': 1000000000}","Black / Red",284,NULL
+232,Asus,"Dual Series","GeForce GTX 1070","{'total': 8000000000}","{'cycles': 1582000000}","{'cycles': 1797000000}",White,240,NULL
+233,Asus,EAH4670/DI/1GD3/V2,"Radeon HD 4670","{'total': 1000000000}","{'cycles': 750000000}",NULL,Red,NULL,NULL
+234,Asus,EAH4870/2DI/1GD5,"Radeon HD 4870","{'total': 1000000000}","{'cycles': 750000000}",NULL,NULL,241,NULL
+235,Asus,"EAH5450 SILENT/DI/1GD3(LP)","Radeon HD 5450","{'total': 1000000000}","{'cycles': 650000000}",NULL,"Black / Red",NULL,NULL
+236,Asus,"EAH5450 SILENT/DI/1GD3/V2(LP)","Radeon HD 5450","{'total': 1000000000}",NULL,NULL,"Red / Silver",NULL,NULL
+237,Asus,"EAH5450 SILENT/DI/512MD3(LP)","Radeon HD 5450","{'total': 500000000}","{'cycles': 650000000}",NULL,"Red / Silver",177,NULL
+238,Asus,"EAH5450 SL/DI/512MD3/MG(LP)","Radeon HD 5450","{'total': 500000000}","{'cycles': 650000000}",NULL,"Red / Silver",177,NULL
+239,Asus,EAH5550/DI/1GD3(LP),"Radeon HD 5550","{'total': 1000000000}","{'cycles': 550000000}",NULL,"Black / Red",167,NULL
+240,Asus,EAH5550/G/DI/1GD3(LP),"Radeon HD 5550","{'total': 1000000000}","{'cycles': 550000000}",NULL,NULL,167,NULL
+241,Asus,EAH5570/DI/1GD3(LP),"Radeon HD 5570","{'total': 1000000000}","{'cycles': 650000000}",NULL,NULL,NULL,NULL
+242,Asus,EAH5670/DI/1GD5,"Radeon HD 5670","{'total': 1000000000}","{'cycles': 775000000}",NULL,"Black / Red",NULL,NULL
+243,Asus,EAH5670/DI/512MD5/V2,"Radeon HD 5670","{'total': 500000000}","{'cycles': 774000000}",NULL,NULL,222.504,NULL
+244,Asus,"EAH5770 CuCore/2DI/1GD5","Radeon HD 5770","{'total': 1000000000}","{'cycles': 850000000}",NULL,Black,228,NULL
+245,Asus,"EAH5830 DIRECTCU/2DIS/1GD5","Radeon HD 5830","{'total': 1000000000}","{'cycles': 800000000}",NULL,Black,241.3,NULL
+246,Asus,"EAH5850 DIRECTCU TOP/2DIS/1GD5","Radeon HD 5850","{'total': 1000000000}","{'cycles': 765000000}",NULL,"Black / Red",241.3,NULL
+247,Asus,"EAH5850 DIRECTCU/2DIS/1GD5","Radeon HD 5850","{'total': 1000000000}","{'cycles': 725000000}",NULL,"Black / Red",241,NULL
+248,Asus,EAH5870/2DIS/1GD5/V2,"Radeon HD 5870","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",241,NULL
+249,Asus,"EAH6450 SILENT/DI/512MD3(LP)","Radeon HD 6450","{'total': 500000000}","{'cycles': 625000000}",NULL,"Red / Silver",177,NULL
+250,Asus,"EAH6450 Silent/DI/1GD3(LP)","Radeon HD 6450","{'total': 1000000000}","{'cycles': 625000000}",NULL,"Red / Silver",177,NULL
+251,Asus,EAH6570/DI/1GD3(LP),"Radeon HD 6570","{'total': 1000000000}","{'cycles': 650000000}",NULL,"Red / Silver",167,NULL
+252,Asus,EAH6670/DIS/1GD5,"Radeon HD 6670","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Red",167,NULL
+253,Asus,"EAH6770 DC SL/2DI/1GD5","Radeon HD 6770","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",290,NULL
+254,Asus,"EAH6770 DC/2DI/1GD5","Radeon HD 6770","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",244,NULL
+255,Asus,EAH6770/DI/1GD5,"Radeon HD 6770","{'total': 1000000000}","{'cycles': 850000000}",NULL,NULL,214,NULL
+256,Asus,"EAH6850 DC/2DIS/1GD5/V2","Radeon HD 6850","{'total': 1000000000}","{'cycles': 790000000}",NULL,"Black / Red",260,NULL
+257,Asus,"EAH6850 DirectCU/2DIS/1GD5","Radeon HD 6850","{'total': 1000000000}","{'cycles': 790000000}",NULL,"Black / Red",260,NULL
+258,Asus,"EAH6870 DC/2DI2S/1GD5","Radeon HD 6870","{'total': 1000000000}","{'cycles': 915000000}",NULL,"Black / Red",276,NULL
+259,Asus,EAH6870/2DI2S/1GD5,"Radeon HD 6870","{'total': 1000000000}","{'cycles': 913000000}",NULL,"Black / Red",241,NULL
+260,Asus,"EAH6950 DCII/2DI4S/1GD5","Radeon HD 6950","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Red",297,NULL
+261,Asus,"EAH6950 DCII/2DI4S/2GD5","Radeon HD 6950","{'total': 2000000000}","{'cycles': 810000000}",NULL,"Black / Red",297,NULL
+262,Asus,EAH6950/2DI2S/2GD5,"Radeon HD 6950","{'total': 2000000000}","{'cycles': 810000000}",NULL,"Black / Red",NULL,NULL
+263,Asus,"EAH6970 DCII/2DI4S/2GD5","Radeon HD 6970","{'total': 2000000000}","{'cycles': 890000000}",NULL,"Black / Red",297,NULL
+264,Asus,EAH6970/2DI2S/2GD5,"Radeon HD 6970","{'total': 2000000000}","{'cycles': 890000000}",NULL,NULL,279,NULL
+265,Asus,"EN8400GS SILENT/DI/512MD2(LP)","GeForce 8400 GS","{'total': 500000000}","{'cycles': 589000000}",NULL,NULL,170,NULL
+266,Asus,"EN8400GS SILENT/P/512M","GeForce 8400 GS","{'total': 500000000}","{'cycles': 567000000}",NULL,"Blue / Silver",NULL,NULL
+267,Asus,EN8400GS/DI/512MD2(LP),"GeForce 8400 GS","{'total': 500000000}","{'cycles': 589000000}",NULL,NULL,170,NULL
+268,Asus,EN9800GT/HTDP/512MD3,"GeForce 9800 GT","{'total': 500000000}",NULL,NULL,NULL,228.6,NULL
+269,Asus,ENENGTX560Ti448DC2/2DIS/1280MD5,"GeForce GTX 560 Ti 448","{'total': 1250000000}","{'cycles': 732000000}",NULL,NULL,281,NULL
+270,Asus,"ENGT430 DC SL/DI/1GD3","GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Red",185,NULL
+271,Asus,ENGT430/DI/1GD3(LP),"GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Blue",160,NULL
+272,Asus,"ENGT440 DC SL/DI/1GD3","GeForce GT 440","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Blue",200,NULL
+273,Asus,ENGT440/DI/1GD5,"GeForce GT 440","{'total': 1000000000}","{'cycles': 822000000}",NULL,"Black / Red",214,NULL
+274,Asus,"ENGT520 Silent/DI/1GD3(LP)","GeForce GT 520","{'total': 1000000000}","{'cycles': 810000000}",NULL,NULL,177,NULL
+275,Asus,ENGT730-SL-2GD3-BRK,"GeForce GT 730","{'total': 2000000000}","{'cycles': 902000000}",NULL,Black,137,NULL
+276,Asus,ENGT740-OC-2GD5,"GeForce GT 740","{'total': 2000000000}","{'cycles': 1033000000}",NULL,Black,173,NULL
+277,Asus,"ENGTS250 DK/DI/1G","GeForce GTS 250","{'total': 1000000000}",NULL,NULL,"Blue / Silver",NULL,NULL
+278,Asus,ENGTS250/DI/512MD3/WW,"GeForce GTS 250","{'total': 500000000}","{'cycles': 675000000}",NULL,Blue,241,NULL
+279,Asus,"ENGTS450 DC OC/DI/1GD5","GeForce GTS 450","{'total': 1000000000}","{'cycles': 850000000}",NULL,NULL,NULL,NULL
+280,Asus,"ENGTS450 DIRECTCU TOP/DI/1GD5","GeForce GTS 450","{'total': 1000000000}","{'cycles': 925000000}",NULL,NULL,216,NULL
+281,Asus,"ENGTS450 DIRECTCU/DI/1GD5","GeForce GTS 450","{'total': 1000000000}","{'cycles': 783000000}",NULL,NULL,216,NULL
+282,Asus,ENGTS450/DI/1GD5,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Red",199,NULL
+283,Asus,"ENGTX460 DC TOP/2DI/1GD5/V2","GeForce GTX 460","{'total': 1000000000}","{'cycles': 775000000}",NULL,NULL,248,NULL
+284,Asus,"ENGTX460 DIRECTCU/2DI/1GD5","GeForce GTX 460","{'total': 1000000000}","{'cycles': 675000000}",NULL,NULL,248,NULL
+285,Asus,"ENGTX460 DIRECTCU/G/2DI/1GD5","GeForce GTX 460","{'total': 1000000000}","{'cycles': 675000000}",NULL,NULL,248,NULL
+286,Asus,"ENGTX460 DirectCU TOP/2DI/768MD5","GeForce GTX 460","{'total': 750000000}","{'cycles': 700000000}",NULL,NULL,240,NULL
+287,Asus,"ENGTX460 SE DC/2DI/1GD5","GeForce GTX 460 SE","{'total': 1000000000}","{'cycles': 660000000}",NULL,"Black / Green",241,NULL
+288,Asus,ENGTX460/2DI/768MD5,"GeForce GTX 460","{'total': 750000000}",NULL,NULL,"Black / Silver",NULL,NULL
+289,Asus,ENGTX465/2DI/1GD5,"GeForce GTX 465","{'total': 1000000000}","{'cycles': 607000000}",NULL,Black,254,NULL
+290,Asus,ENGTX470/2DI/1280MD5,"GeForce GTX 470","{'total': 1250000000}","{'cycles': 607000000}",NULL,Black,254,NULL
+291,Asus,ENGTX470/2DI/1280MD5/V2,"GeForce GTX 470","{'total': 1250000000}","{'cycles': 607000000}",NULL,NULL,254,NULL
+292,Asus,ENGTX480/2DI/1536MD5,"GeForce GTX 480","{'total': 1500000000}",NULL,NULL,"Black / Silver",NULL,NULL
+293,Asus,"ENGTX550 TI DC TOP/DI/1GD5","GeForce GTX 550 Ti","{'total': 1000000000}","{'cycles': 975000000}",NULL,"Red / Black",242,NULL
+294,Asus,"ENGTX550 TI DC/DI/1GD5","GeForce GTX 550 Ti","{'total': 1000000000}","{'cycles': 910000000}",NULL,"Black / Red",242,NULL
+295,Asus,"ENGTX550 Ti/DI/1GD5","GeForce GTX 550 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Red",214,NULL
+296,Asus,"ENGTX560 DC/2DI/1GD5","GeForce GTX 560","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Red",248,NULL
+297,Asus,"ENGTX560 DCII OC/2DI/1GD5","GeForce GTX 560","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",228,NULL
+298,Asus,"ENGTX560 DCII TOP/2DI/1GD5","GeForce GTX 560","{'total': 1000000000}","{'cycles': 925000000}",NULL,"Black / Red",228,NULL
+299,Asus,"ENGTX560 TI DC2 TOP/2DI/2GD5","GeForce GTX 560 Ti","{'total': 2000000000}","{'cycles': 900000000}",NULL,"Black / Red",258,NULL
+300,Asus,"ENGTX560 TI DCII TOP/2DI/1GD5","GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Red",258,NULL
+301,Asus,"ENGTX560 TI DCII/2DI/1GD5","GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 830000000}",NULL,"Black / Red",NULL,NULL
+302,Asus,ENGTX560TI448DC2/2DIS/1280M,"GeForce GTX 560 Ti 448","{'total': 1250000000}","{'cycles': 732000000}",NULL,NULL,281,NULL
+303,Asus,"ENGTX570 DCII/2DIS/1280MD5","GeForce GTX 570","{'total': 1250000000}","{'cycles': 742000000}",NULL,"Black / Red",292,NULL
+304,Asus,ENGTX570/2DI/1280MD5,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 742000000}",NULL,"Black / Silver",279,NULL
+305,Asus,"ENGTX580 DCII/2DIS/1536MD5","GeForce GTX 580","{'total': 1500000000}","{'cycles': 782000000}",NULL,"Black / Red",292,NULL
+306,Asus,ENGTX580/2DI/1536MD5,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 782000000}",NULL,"Black / Silver",279,NULL
+307,Asus,ENGTX590/3DIS/3GD5,"GeForce GTX 590","{'total': 3000000000}","{'cycles': 612000000}",NULL,NULL,292,NULL
+308,Asus,EX-GTX1070-O8G,"GeForce GTX 1070","{'total': 8000000000}","{'cycles': 1592000000}","{'cycles': 1797000000}",Gray,240,NULL
+309,Asus,Expedition,"Radeon RX 570","{'total': 4000000000}","{'cycles': 1168000000}","{'cycles': 1254000000}","Black / Red",240,NULL
+310,Asus,Expedition,"GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1569000000}","{'cycles': 1809000000}","Black / Red",240,NULL
+311,Asus,Expedition,"Radeon RX 570","{'total': 8000000000}","{'cycles': 1168000000}","{'cycles': 1266000000}","Black / Red",240,NULL
+312,Asus,"Expedition OC","GeForce GTX 1050","{'total': 2000000000}","{'cycles': 1404000000}","{'cycles': 1518000000}","Black / Red",212,NULL
+313,Asus,"Expedition OC","GeForce GTX 1050 Ti","{'total': 4000000000}","{'cycles': 1341000000}","{'cycles': 1455000000}","Black / Red",212,NULL
+314,Asus,"Founders Edition","GeForce GTX 1070","{'total': 8000000000}","{'cycles': 1506000000}","{'cycles': 1683000000}","Black / Silver",267,NULL
+315,Asus,"Founders Edition","GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1480000000}","{'cycles': 1582000000}","Black / Silver",267,NULL
+316,Asus,"Founders Edition","GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1733000000}","Black / Silver",267,NULL
+317,Asus,GT1030-2G-BRK,"GeForce GT 1030","{'total': 2000000000}","{'cycles': 1266000000}","{'cycles': 1506000000}","Black / Blue",169,NULL
+318,Asus,GT1030-2G-CSM,"GeForce GT 1030","{'total': 2000000000}","{'cycles': 1266000000}","{'cycles': 1506000000}","Black / Blue",173,NULL
+319,Asus,GT520-1GD3-CSM,"GeForce GT 520","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Blue",NULL,NULL
+320,Asus,GT610-2GD3-CSM,"GeForce GT 610","{'total': 2000000000}","{'cycles': 810000000}",NULL,"Black / Blue",185,NULL
+321,Asus,GT610-SL-1GD3-L,"GeForce GT 610","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Blue",185,NULL
+322,Asus,GT620-1GD3-L,"GeForce GT 620","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Blue",168,NULL
+323,Asus,GT620-1GD3-L-V2,"GeForce GT 620","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Silver",168,NULL
+324,Asus,GT620-DCSL-2GD3,"GeForce GT 620","{'total': 2000000000}","{'cycles': 700000000}",NULL,"Black / Red",187,NULL
+325,Asus,GT630-2GD3,"GeForce GT 630","{'total': 2000000000}","{'cycles': 810000000}",NULL,"Black / Red",193,NULL
+326,Asus,GT630-DCSL-2GD3,"GeForce GT 630","{'total': 2000000000}","{'cycles': 810000000}",NULL,"Black / Blue",203,NULL
+327,Asus,GT630-SL-2GD3-L,"GeForce GT 630","{'total': 2000000000}","{'cycles': 902000000}",NULL,"Black / Blue",136,NULL
+328,Asus,GT640-1GD3-L,"GeForce GT 640","{'total': 1000000000}","{'cycles': 901000000}",NULL,NULL,171,NULL
+329,Asus,GT640-1GD5-L,"GeForce GT 640","{'total': 1000000000}","{'cycles': 1046000000}",NULL,"Black / Blue",145,NULL
+330,Asus,GT640-2GD3,"GeForce GT 640","{'total': 2000000000}","{'cycles': 901000000}",NULL,"Black / Red",210,NULL
+331,Asus,GT640-DCSL-2GD3,"GeForce GT 640","{'total': 2000000000}","{'cycles': 901000000}",NULL,"Black / Red",NULL,NULL
+332,Asus,GT710-4H-SL-2GD5,"GeForce GT 710","{'total': 2000000000}","{'cycles': 954000000}",NULL,Black,167,NULL
+333,Asus,GT710-SL-2GD5,"GeForce GT 710","{'total': 2000000000}","{'cycles': 954000000}",NULL,"Blue / Silver",167,NULL
+334,Asus,GT720-1GD3/CSM,"GeForce GT 720","{'total': 1000000000}","{'cycles': 797000000}",NULL,Black,137,NULL
+335,Asus,GT720-2GD3-CSM,"GeForce GT 720","{'total': 2000000000}","{'cycles': 797000000}",NULL,"Black / Blue",136,NULL
+336,Asus,GT720-SL-2GD3-BRK,"GeForce GT 720","{'total': 2000000000}","{'cycles': 797000000}",NULL,"Black / Blue",137,NULL
+337,Asus,GT730-SL-1GD3-BRK,"GeForce GT 730","{'total': 1000000000}","{'cycles': 902000000}",NULL,"Black / Blue",137,NULL
+338,Asus,GT730-SL-2GD3-B,"GeForce GT 730","{'total': 2000000000}","{'cycles': 902000000}",NULL,Black,137,NULL
+339,Asus,GT730-SL-2GD3-BRK,"GeForce GT 730","{'total': 2000000000}","{'cycles': 902000000}",NULL,Black,137,NULL
+340,Asus,GT740-2GD3,"GeForce GT 740","{'total': 2000000000}","{'cycles': 993000000}",NULL,"Black / Red",179,NULL
+341,Asus,GT740-2GD3-CSM,"GeForce GT 740","{'total': 2000000000}","{'cycles': 993000000}",NULL,"Black / Red",180,NULL
+342,Asus,GT740-OC-1GD5,"GeForce GT 740","{'total': 1000000000}","{'cycles': 1033000000}",NULL,"Black / Silver",NULL,NULL
+343,Asus,GT740-OC-2GD5,"GeForce GT 740","{'total': 2000000000}","{'cycles': 1033000000}",NULL,Black,173,NULL
+344,Asus,GTX1050TI-O4G-LP-BRK,"GeForce GTX 1050 Ti","{'total': 4000000000}","{'cycles': 1303000000}","{'cycles': 1442000000}",NULL,182,NULL
+345,Asus,GTX650-DC-1GD5,"GeForce GTX 650","{'total': 1000000000}","{'cycles': 1058000000}",NULL,"Black / Red",245,NULL
+346,Asus,GTX650-DCO-1GD5,"GeForce GTX 650","{'total': 1000000000}","{'cycles': 1137000000}",NULL,"Black / Red",245,NULL
+347,Asus,GTX650-DCT-1GD5,"GeForce GTX 650","{'total': 1000000000}","{'cycles': 1215000000}",NULL,"Black / Red",245,NULL
+348,Asus,GTX650-E-1GD5,"GeForce GTX 650","{'total': 1000000000}","{'cycles': 1071000000}",NULL,"Black / Red",197,NULL
+349,Asus,GTX650-E-2GD5,"GeForce GTX 650","{'total': 2000000000}","{'cycles': 1071000000}",NULL,"Black / Red",197,NULL
+350,Asus,GTX650TI-1GD5,"GeForce GTX 650 Ti","{'total': 1000000000}","{'cycles': 928000000}",NULL,"Black / Red",213,NULL
+351,Asus,GTX650TI-DC2O-1GD5,"GeForce GTX 650 Ti","{'total': 1000000000}","{'cycles': 954000000}",NULL,"Black / Red",274,NULL
+352,Asus,GTX650TI-O-1GD5,"GeForce GTX 650 Ti","{'total': 1000000000}","{'cycles': 980000000}",NULL,"Black / Red",213,NULL
+353,Asus,GTX650TI-OC-2GD5,"GeForce GTX 650 Ti","{'total': 2000000000}","{'cycles': 980000000}",NULL,"Black / Red",226,NULL
+354,Asus,"GTX650TIB-DC2OC-2GD5 BOOST","GeForce GTX 650 Ti Boost","{'total': 2000000000}","{'cycles': 1020000000}",NULL,"Black / Red",259,NULL
+355,Asus,"GTX660 TI-DC2-2GD5","GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 915000000}",NULL,"Black / Red",271,NULL
+356,Asus,"GTX660 TI-DC2O-2GD5","GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 1028000000}",NULL,"Black / Red",271,NULL
+357,Asus,"GTX660 TI-DC2OC-3GD5","GeForce GTX 660 Ti","{'total': 3000000000}","{'cycles': 1006000000}",NULL,"Black / Red",210,NULL
+358,Asus,"GTX660 TI-DC2OG-2GD5","GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 1028000000}",NULL,"Black / Red",271,NULL
+359,Asus,"GTX660 TI-DC2T-2GD5","GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 1059000000}",NULL,"Black / Red",271,NULL
+360,Asus,GTX660-DC2-2GD5,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 980000000}",NULL,"Black / Red",259,NULL
+361,Asus,GTX660-DC2O-2GD5,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 1020000000}",NULL,"Black / Red",259,NULL
+362,Asus,GTX660-DC2T-2GD5,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 1072000000}",NULL,"Black / Red",259,NULL
+363,Asus,GTX670-DC2-2GD5,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 915000000}",NULL,"Black / Red",271,NULL
+364,Asus,GTX670-DC2-4GD5,"GeForce GTX 670","{'total': 4000000000}","{'cycles': 915000000}",NULL,"Black / Red",271,NULL
+365,Asus,GTX670-DC2OG-2GD5,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 980000000}",NULL,"Black / Red",271,NULL
+366,Asus,GTX670-DC2T-2GD5,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 1058000000}",NULL,"Black / Red",271,NULL
+367,Asus,GTX670-DCMOC-2GD5,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 928000000}",NULL,"Black / Red",170,NULL
+368,Asus,GTX680-2GD5,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Green",256,NULL
+369,Asus,GTX680-DC2-2GD5,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Red",299,NULL
+370,Asus,GTX680-DC2-4GD5,"GeForce GTX 680","{'total': 4000000000}","{'cycles': 1006000000}",NULL,"Black / Red",299,NULL
+371,Asus,GTX680-DC2O-2GD5,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1019000000}",NULL,"Black / Red",299,NULL
+372,Asus,GTX680-DC2T-2GD5,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1137000000}",NULL,"Black / Red",299,NULL
+373,Asus,GTX690-4GD5,"GeForce GTX 690","{'total': 4000000000}","{'cycles': 915000000}",NULL,"Black / Silver",279,NULL
+374,Asus,GTX750-DCSL-2GD5,"GeForce GTX 750","{'total': 2000000000}","{'cycles': 1020000000}","{'cycles': 1085000000}","Black / Red",200,NULL
+375,Asus,GTX750-PHOC-1GD5,"GeForce GTX 750","{'total': 1000000000}","{'cycles': 1059000000}","{'cycles': 1137000000}",Black,185,NULL
+376,Asus,GTX750-PHOC-2GD5,"GeForce GTX 750","{'total': 2000000000}","{'cycles': 1059000000}","{'cycles': 1137000000}",Black,185,NULL
+377,Asus,GTX750TI-OC-2GD5,"GeForce GTX 750 Ti","{'total': 2000000000}","{'cycles': 1072000000}","{'cycles': 1150000000}","Black / Red",217,NULL
+378,Asus,GTX750TI-PH-2GD5,"GeForce GTX 750 Ti","{'total': 2000000000}","{'cycles': 1020000000}","{'cycles': 1085000000}",Black,182,NULL
+379,Asus,GTX760-DC2OC-4GD5,"GeForce GTX 760","{'total': 4000000000}","{'cycles': 1006000000}","{'cycles': 1072000000}","Black / Red",218,NULL
+380,Asus,GTX760-DCMOC-2GD5,"GeForce GTX 760","{'total': 2000000000}","{'cycles': 1006000000}","{'cycles': 1075000000}","Black / Red",170,NULL
+381,Asus,GTX780-3GD5,"GeForce GTX 780","{'total': 3000000000}","{'cycles': 863000000}",NULL,"Black / Silver",274,NULL
+382,Asus,GTX780TI-3GD5,"GeForce GTX 780 Ti","{'total': 3000000000}","{'cycles': 876000000}","{'cycles': 928000000}","Black / Silver",274,NULL
+383,Asus,GTX950-2G,"GeForce GTX 950 75W","{'total': 2000000000}","{'cycles': 1026000000}","{'cycles': 1228000000}","White / Blue",210,NULL
+384,Asus,GTX950-2GD5,"GeForce GTX 950","{'total': 2000000000}","{'cycles': 1026000000}","{'cycles': 1228000000}",White,210,NULL
+385,Asus,GTX950-M-2GD5,"GeForce GTX 950","{'total': 2000000000}","{'cycles': 1026000000}","{'cycles': 1190000000}","Black / Red",172,NULL
+386,Asus,GTX950-OC-2GD5,"GeForce GTX 950","{'total': 2000000000}","{'cycles': 1076000000}","{'cycles': 1279000000}","White / Blue",210,NULL
+387,Asus,GTX960-DC2OC-2GD5-BLACK,"GeForce GTX 960","{'total': 2000000000}","{'cycles': 1279000000}","{'cycles': 1342000000}","Black / Red",290,NULL
+388,Asus,GTX960-MOC-2GD5,"GeForce GTX 960","{'total': 2000000000}","{'cycles': 1253000000}","{'cycles': 1190000000}","Black / Red",170,NULL
+389,Asus,GTX970-DCMOC-4GD5,"GeForce GTX 970","{'total': 4000000000}","{'cycles': 1088000000}","{'cycles': 1228000000}","Black / Red",170,NULL
+390,Asus,GTX980-4GD5,"GeForce GTX 980","{'total': 4000000000}","{'cycles': 1127000000}","{'cycles': 1216000000}","Black / Silver",268,NULL
+391,Asus,GTX980TI-6GD5,"GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1000000000}","{'cycles': 1076000000}","Black / Silver",282,NULL
+392,Asus,GTXTITAN-6GD5,"GeForce GTX Titan","{'total': 6000000000}","{'cycles': 836000000}",NULL,"Black / Silver",267,NULL
+393,Asus,GTXTITANBLACK-6GD5,"GeForce GTX Titan Black","{'total': 6000000000}","{'cycles': 889000000}","{'cycles': 980000000}","Black / Silver",274,NULL
+394,Asus,GTXTITANX-12GD5,"GeForce GTX Titan X","{'total': 12000000000}","{'cycles': 1075000000}","{'cycles': 1000000000}","Black / Silver",267,NULL
+395,Asus,GTXTITANZ-12GD5,"GeForce GTX Titan Z","{'total': 12000000000}","{'cycles': 705000000}","{'cycles': 876000000}","Black / Silver",270,NULL
+396,Asus,HD6450-SL-2GD3-L,"Radeon HD 6450","{'total': 2000000000}","{'cycles': 650000000}",NULL,NULL,167,NULL
+397,Asus,HD6570-2GD3-L,"Radeon HD 6570","{'total': 2000000000}","{'cycles': 650000000}",NULL,NULL,167,NULL
+398,Asus,HD6670-2GD3,"Radeon HD 6670","{'total': 2000000000}","{'cycles': 800000000}",NULL,"Black / Red",167,NULL
+399,Asus,HD7750-1GD5,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 820000000}",NULL,"Black / Red",198,NULL
+400,Asus,HD7750-1GD5-V2,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 820000000}",NULL,"Black / Red",198,NULL
+401,Asus,HD7750-DCSL-1GD5,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Red",198,NULL
+402,Asus,HD7750-T-1GD5,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Red",198,NULL
+403,Asus,HD7770-1GD5,"Radeon HD 7770 GHz Edition","{'total': 1000000000}","{'cycles': 1000000000}",NULL,"Black / Red",190,NULL
+404,Asus,HD7770-2GD5,"Radeon HD 7770","{'total': 2000000000}","{'cycles': 1020000000}",NULL,"Black / Red",210,NULL
+405,Asus,HD7770-DC-1GD5,"Radeon HD 7770","{'total': 1000000000}","{'cycles': 1020000000}",NULL,"Black / Red",226,NULL
+406,Asus,HD7770-DC-1GD5-V2,"Radeon HD 7770","{'total': 1000000000}","{'cycles': 1020000000}",NULL,"Black / Red",236,NULL
+407,Asus,HD7770-DCT-1GD5,"Radeon HD 7770 GHz Edition","{'total': 1000000000}","{'cycles': 1120000000}",NULL,"Black / Red",236,NULL
+408,Asus,HD7790-DC2OC-1GD5,"Radeon HD 7790","{'total': 1000000000}","{'cycles': 1075000000}",NULL,"Black / Red",216,NULL
+409,Asus,HD7790-DC2OC-2GD5,"Radeon HD 7790","{'total': 2000000000}","{'cycles': 1075000000}",NULL,"Black / Red",215,NULL
+410,Asus,HD7850-DC-1GD5,"Radeon HD 7850","{'total': 1000000000}","{'cycles': 860000000}",NULL,"Black / Red",248,NULL
+411,Asus,HD7850-DC2-2GD5,"Radeon HD 7850","{'total': 2000000000}","{'cycles': 870000000}",NULL,"Black / Red",259,NULL
+412,Asus,HD7850-DC2-2GD5-V2,"Radeon HD 7850","{'total': 2000000000}","{'cycles': 860000000}",NULL,"Black / Red",NULL,NULL
+413,Asus,HD7850-DC2T-2GD5-V2,"Radeon HD 7850","{'total': 2000000000}","{'cycles': 1000000000}",NULL,"Black / Red",274,NULL
+414,Asus,HD7870-DC2-2GD5,"Radeon HD 7870","{'total': 2000000000}","{'cycles': 1010000000}",NULL,"Black / Red",264,NULL
+415,Asus,HD7870-DC2-2GD5-V2,"Radeon HD 7870 GHz Edition","{'total': 2000000000}","{'cycles': 1000000000}",NULL,"Black / Red",265,NULL
+416,Asus,HD7870-DC2TG-2GD5-V2,"Radeon HD 7870 GHz Edition","{'total': 2000000000}","{'cycles': 1100000000}",NULL,"Black / Red",265,NULL
+417,Asus,HD7950-3GD5,"Radeon HD 7950","{'total': 3000000000}","{'cycles': 800000000}",NULL,"Black / Red",269,NULL
+418,Asus,HD7950-DC2-3GD5,"Radeon HD 7950","{'total': 3000000000}","{'cycles': 800000000}",NULL,"Black / Red",299,NULL
+419,Asus,HD7950-DC2-3GD5-V2,"Radeon HD 7950","{'total': 3000000000}","{'cycles': 800000000}",NULL,"Black / Red",279,NULL
+420,Asus,HD7950-DC2T-3GD5,"Radeon HD 7950","{'total': 3000000000}","{'cycles': 900000000}",NULL,"Black / Red",299,NULL
+421,Asus,HD7970-3GD5-3DI2S,"Radeon HD 7970","{'total': 3000000000}","{'cycles': 925000000}",NULL,"Black / Red",276,NULL
+422,Asus,HD7970-DC2-3GD5,"Radeon HD 7970","{'total': 3000000000}","{'cycles': 925000000}",NULL,"Black / Red",279,NULL
+423,Asus,HD7970-DC2T-3GD5,"Radeon HD 7970","{'total': 3000000000}","{'cycles': 1000000000}",NULL,"Black / Red",279,NULL
+424,Asus,"MARS II/2DIS/3GD5","GeForce GTX 580 X2","{'total': 3000000000}","{'cycles': 782000000}",NULL,NULL,330,NULL
+425,Asus,MATRIX,"GeForce GTX 780 Ti","{'total': 3000000000}","{'cycles': 1006000000}","{'cycles': 1072000000}","Black / Red",297,NULL
+426,Asus,MATRIX,"Radeon R9 290X","{'total': 4000000000}","{'cycles': 1050000000}",NULL,"Black / Red",297,NULL
+427,Asus,MATRIX,"GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}","{'cycles': 1815000000}","Black / Silver",310,NULL
+428,Asus,MATRIX,"Radeon R9 280X","{'total': 3000000000}","{'cycles': 1100000000}",NULL,"Black / Red",284,NULL
+429,Asus,"MATRIX GTX580 P/2DIS/1536MD5","GeForce GTX 580","{'total': 1500000000}","{'cycles': 816000000}",NULL,NULL,292,NULL
+430,Asus,MATRIX-GTX980-P-4GD5,"GeForce GTX 980","{'total': 4000000000}","{'cycles': 1241000000}","{'cycles': 1342000000}","Black / Red",297,NULL
+431,Asus,MATRIX-GTX980TI-P-6GD5-GAMING,"GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1317000000}","{'cycles': 1216000000}","Black / Orange",296,NULL
+432,Asus,MATRIX-HD7970-P-3GD5,"Radeon HD 7970 GHz Edition","{'total': 3000000000}","{'cycles': 1050000000}",NULL,"Black / Red",279,NULL
+433,Asus,MINI-GTX950-2G,"GeForce GTX 950 75W","{'total': 2000000000}","{'cycles': 1026000000}","{'cycles': 1228000000}","Red / Black",172,NULL
+434,Asus,POSEIDON,"GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1620000000}","{'cycles': 1733000000}",Black,298,NULL
+435,Asus,POSEIDON-GTX980TI-P-6GD5,"GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1114000000}","{'cycles': 1203000000}","Black / Red",287,NULL
+436,Asus,Phoenix,"GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1800000000}","Black / White",174,NULL
+437,Asus,Phoenix,"GeForce GTX 1050 Ti","{'total': 4000000000}","{'cycles': 1290000000}","{'cycles': 1392000000}","Black / White",192,NULL
+438,Asus,Phoenix,"GeForce GTX 1650 SUPER","{'total': 4000000000}","{'cycles': 1530000000}","{'cycles': 1755000000}","Black / White",174,NULL
+439,Asus,"Phoenix Fan","GeForce GTX 1660","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1815000000}","Black / White",174,NULL
+440,Asus,"Phoenix Fan","GeForce GTX 1060 3GB","{'total': 3000000000}","{'cycles': 1506000000}","{'cycles': 1708000000}","Black / White",183,NULL
+441,Asus,"Phoenix Fan","Radeon RX 550 - 640","{'total': 4000000000}","{'cycles': 1071000000}",NULL,Black,192,NULL
+442,Asus,"Phoenix Fan","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1710000000}","Black / White",177,NULL
+443,Asus,"Phoenix Fan","GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1506000000}","{'cycles': 1708000000}","Black / White",182.88,NULL
+444,Asus,"Phoenix Fan OC","GeForce GT 1030","{'total': 2000000000}","{'cycles': 1278000000}","{'cycles': 1531000000}","Black / Blue",184,NULL
+445,Asus,"Phoenix OC","GeForce GTX 1650","{'total': 4000000000}","{'cycles': 1485000000}","{'cycles': 1710000000}",Black,190,NULL
+446,Asus,"Phoenix OC","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1830000000}","Black / White",174,NULL
+447,Asus,"Phoenix OC","GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1815000000}","Black / White",174,NULL
+448,Asus,"Phoenix OC","GeForce GTX 1650 SUPER","{'total': 4000000000}","{'cycles': 1530000000}","{'cycles': 1770000000}","Black / White",173.99,NULL
+449,Asus,"Phoenix OC","GeForce GTX 1660","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1830000000}","Black / White",174,NULL
+450,Asus,Platinum,"GeForce GTX 780 Ti","{'total': 3000000000}","{'cycles': 1006000000}","{'cycles': 1072000000}","Black / Red",297,NULL
+451,Asus,"Poseidon Platinum","GeForce GTX 980","{'total': 4000000000}","{'cycles': 1178000000}","{'cycles': 1279000000}","Black / Red",287,NULL
+452,Asus,R5230-SL-1GD3-L,"Radeon R5 230","{'total': 1000000000}","{'cycles': 625000000}",NULL,"Black / Red",168,NULL
+453,Asus,R5230-SL-2GD3-L,"Radeon R5 230","{'total': 2000000000}","{'cycles': 650000000}",NULL,"Black / Red",168,NULL
+454,Asus,R7240-2GD3-L,"Radeon R7 240","{'total': 2000000000}","{'cycles': 730000000}",NULL,"Black / Red",159,NULL
+455,Asus,R7250-1GD5,"Radeon R7 250","{'total': 1000000000}","{'cycles': 1000000000}",NULL,"Black / Red",160,NULL
+456,Asus,R7250-2GD5,"Radeon R7 250","{'total': 2000000000}","{'cycles': 725000000}","{'cycles': 925000000}","Black / Red",168,NULL
+457,Asus,R7250X-1GD5,"Radeon R7 250X","{'total': 1000000000}","{'cycles': 1000000000}",NULL,"Black / Red",191,NULL
+458,Asus,R7250X-2GD5,"Radeon R7 250X","{'total': 2000000000}","{'cycles': 1020000000}",NULL,"Black / Red",211,NULL
+459,Asus,R7260X-OC-2GD5,"Radeon R7 260X","{'total': 2000000000}","{'cycles': 1075000000}",NULL,"Black / Red",220,NULL
+460,Asus,R7265-DC2-2GD5,"Radeon R7 265","{'total': 2000000000}","{'cycles': 900000000}","{'cycles': 925000000}","Black / Red",233,NULL
+461,Asus,R7360-OC-2GD5,"Radeon R7 360","{'total': 2000000000}","{'cycles': 1070000000}",NULL,"Black / Red",220,NULL
+462,Asus,R7360-OC-2GD5-V2,"Radeon R7 360","{'total': 2000000000}","{'cycles': 1070000000}","{'cycles': 1090000000}","Black / Red",220,NULL
+463,Asus,R9290-4GD5,"Radeon R9 290","{'total': 4000000000}","{'cycles': 947000000}",NULL,"Black / Red",276,NULL
+464,Asus,R9290X-4GD5,"Radeon R9 290X","{'total': 4000000000}","{'cycles': 1000000000}",NULL,"Black / Red",276,NULL
+465,Asus,R9290X-G-4GD5,"Radeon R9 290X","{'total': 4000000000}","{'cycles': 772000000}","{'cycles': 1000000000}","Black / Red",276,NULL
+466,Asus,R9295X2-8GD5,"Radeon R9 295X2","{'total': 8000000000}","{'cycles': 1018000000}",NULL,"Black / Silver",308,NULL
+467,Asus,R9390-DC2-8GD5,"Radeon R9 390","{'total': 8000000000}","{'cycles': 1000000000}",NULL,"Black / Red",287,NULL
+468,Asus,R9390X-DC2-8GD5,"Radeon R9 390X","{'total': 8000000000}","{'cycles': 1050000000}",NULL,"Black / Red",287,NULL
+469,Asus,R9FURYX-4G,"Radeon R9 Fury X","{'total': 4000000000}","{'cycles': 1050000000}",NULL,"Black / Red",195,NULL
+470,Asus,R9NANO-4G-WHITE,"Radeon R9 Nano","{'total': 4000000000}","{'cycles': 1000000000}",NULL,White,153,NULL
+471,Asus,R9NANO-4GB,"Radeon R9 Nano","{'total': 4000000000}","{'cycles': 1000000000}",NULL,"Black / Red",152,NULL
+472,Asus,RADEONVII-16G,"Radeon VII","{'total': 16000000000}","{'cycles': 1400000000}","{'cycles': 1750000000}",Silver,267,NULL
+473,Asus,"ROG Ares II","Radeon HD 7990","{'total': 6000000000}","{'cycles': 1050000000}",NULL,"Black / Red",299,NULL
+474,Asus,"ROG STRIX","Radeon RX VEGA 64","{'total': 8000000000}","{'cycles': 1247000000}","{'cycles': 1590000000}","Black / Red",298,NULL
+475,Asus,"ROG STRIX","GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1670000000}","{'cycles': 1835000000}",Black,298,NULL
+476,Asus,"ROG STRIX","GeForce GTX 1070 Ti","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1721000000}",Black,298,NULL
+477,Asus,"ROG STRIX","Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1380000000}",Black,298,NULL
+478,Asus,"ROG STRIX","Radeon RX 460","{'total': 4000000000}","{'cycles': 1090000000}","{'cycles': 1220000000}",Black,194,NULL
+479,Asus,"ROG STRIX","Radeon RX 480","{'total': 8000000000}","{'cycles': 1120000000}","{'cycles': 1286000000}",Black,298,NULL
+480,Asus,"ROG STRIX","Radeon RX 480","{'total': 8000000000}","{'cycles': 1120000000}","{'cycles': 1330000000}",Black,298,NULL
+481,Asus,"ROG STRIX","Radeon RX VEGA 56","{'total': 8000000000}","{'cycles': 1297000000}","{'cycles': 1573000000}",NULL,298,NULL
+482,Asus,"ROG STRIX","GeForce GTX 1070 Ti","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1759000000}",Black,298,NULL
+483,Asus,"ROG STRIX","Radeon RX 570","{'total': 4000000000}","{'cycles': 1168000000}","{'cycles': 1254000000}",Black,240,NULL
+484,Asus,"ROG STRIX","Radeon RX 570","{'total': 4000000000}","{'cycles': 1168000000}","{'cycles': 1310000000}",Black,240,NULL
+485,Asus,"ROG STRIX","GeForce GTX 1050","{'total': 2000000000}","{'cycles': 1442000000}","{'cycles': 1569000000}",Black,241,NULL
+486,Asus,"ROG STRIX","GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1506000000}","{'cycles': 1708000000}",Black,298,NULL
+487,Asus,"ROG STRIX TOP","Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1431000000}",Black,298,NULL
+488,Asus,"ROG STRIX-GTX1070-O8G-GAMING","GeForce GTX 1070","{'total': 8000000000}","{'cycles': 1632000000}","{'cycles': 1860000000}",Black,298,NULL
+489,Asus,ROG-STRIX-GTX1080-O8G-11GBPS,"GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1721000000}","{'cycles': 1860000000}",Black,298,NULL
+490,Asus,ROG-STRIX-RX560-O4G-EVO-GAMING,"Radeon RX 560 - 896","{'total': 4000000000}","{'cycles': 1149000000}","{'cycles': 1197000000}",Black,194,NULL
+491,Asus,RX480-8G,"Radeon RX 480","{'total': 8000000000}","{'cycles': 1120000000}","{'cycles': 1266000000}","Black / Red",240,NULL
+492,Asus,RX550-2G,"Radeon RX 550 - 512","{'total': 2000000000}","{'cycles': 1100000000}","{'cycles': 1183000000}","Black / Red",182,NULL
+493,Asus,RX550-4G,"Radeon RX 550 - 512","{'total': 4000000000}","{'cycles': 1100000000}","{'cycles': 1183000000}","Black / Red",182,NULL
+494,Asus,RX560-4G,"Radeon RX 560 - 1024","{'total': 4000000000}","{'cycles': 1175000000}",NULL,"Black / Red",220,NULL
+495,Asus,RX560-O4G-EVO,"Radeon RX 560 - 896","{'total': 4000000000}","{'cycles': 1149000000}","{'cycles': 1197000000}","Black / Red",220,NULL
+496,Asus,RX5700-8G,"Radeon RX 5700","{'total': 8000000000}","{'cycles': 1465000000}","{'cycles': 1725000000}",Silver,270,NULL
+497,Asus,RX5700XT-8G,"Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1605000000}","{'cycles': 1905000000}",Silver,270,NULL
+498,Asus,STRIKER-GTX760-P-4GD,"GeForce GTX 760","{'total': 4000000000}","{'cycles': 1085000000}","{'cycles': 1150000000}","Black / Red",287,NULL
+499,Asus,STRIKER-GTX760-P-4GD5,"GeForce GTX 760","{'total': 4000000000}","{'cycles': 1085000000}","{'cycles': 1150000000}","Black / Red",287,NULL
+500,Asus,STRIX,"Radeon RX 560 - 1024","{'total': 4000000000}","{'cycles': 1175000000}","{'cycles': 1336000000}",Black,194,NULL
+501,Asus,STRIX,"GeForce GTX 780","{'total': 6000000000}","{'cycles': 889000000}","{'cycles': 941000000}","Black / Red",287,NULL
+502,Asus,STRIX,"GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1759000000}","{'cycles': 1936000000}",Black,298,NULL
+503,Asus,STRIX,"GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1216000000}","{'cycles': 1317000000}","Black / Red",305,NULL
+504,Asus,STRIX,"Radeon RX 580","{'total': 8000000000}","{'cycles': 1257000000}","{'cycles': 1360000000}",Black,298,NULL
+505,Asus,STRIX,"GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1733000000}",Black,298,NULL
+506,Asus,STRIX,"GeForce GTX 970","{'total': 4000000000}","{'cycles': 1114000000}","{'cycles': 1253000000}","Black / Red",280,NULL
+507,Asus,STRIX,"GeForce GTX 1050 Ti","{'total': 4000000000}","{'cycles': 1379000000}","{'cycles': 1506000000}",Black,241,NULL
+508,Asus,STRIX,"GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1620000000}","{'cycles': 1873000000}",Black,298,NULL
+509,Asus,STRIX,"Radeon R9 285","{'total': 2000000000}","{'cycles': 918000000}",NULL,"Black / Red",269,NULL
+510,Asus,STRIX,"Radeon RX 470","{'total': 4000000000}","{'cycles': 926000000}","{'cycles': 1270000000}",Black,242,NULL
+511,Asus,STRIX,"Radeon RX 560 - 1024","{'total': 4000000000}","{'cycles': 1175000000}","{'cycles': 1285000000}",Black,194,NULL
+512,Asus,STRIX,"Radeon RX 470","{'total': 4000000000}","{'cycles': 926000000}","{'cycles': 1226000000}",Black,242,NULL
+513,Asus,STRIX,"GeForce GTX 1070","{'total': 8000000000}","{'cycles': 1506000000}","{'cycles': 1721000000}",Black,298,NULL
+514,Asus,STRIX,"Radeon R9 285","{'total': 2000000000}","{'cycles': 954000000}",NULL,"Black / Red",269,NULL
+515,Asus,STRIX,"GeForce GTX 980","{'total': 4000000000}","{'cycles': 1178000000}","{'cycles': 1279000000}","Black / Red",289,NULL
+516,Asus,STRIX,"Radeon R9 280","{'total': 3000000000}","{'cycles': 980000000}",NULL,"Black / Red",285,NULL
+517,Asus,STRIX,"Radeon RX 460","{'total': 4000000000}","{'cycles': 1090000000}","{'cycles': 1220000000}",Black,194,NULL
+518,Asus,STRIX,"GeForce GTX 750 Ti","{'total': 2000000000}","{'cycles': 1124000000}","{'cycles': 1202000000}","Black / Red",196,NULL
+519,Asus,"STRIX AC ORIGINS","GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1594000000}","{'cycles': 1708000000}",Brown,298,NULL
+520,Asus,"STRIX Black Ops 4 Edition","GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}","{'cycles': 1665000000}",Black,304.7,NULL
+521,Asus,"STRIX GAMING","GeForce GTX 1650 SUPER","{'total': 4000000000}","{'cycles': 1530000000}","{'cycles': 1755000000}",Black,243,NULL
+522,Asus,"STRIX GAMING","GeForce RTX 3090","{'total': 24000000000}","{'cycles': 1400000000}","{'cycles': 1725000000}",Black,318.5,NULL
+523,Asus,"STRIX GAMING","GeForce RTX 3080","{'total': 10000000000}","{'cycles': 1440000000}","{'cycles': 1740000000}",Black,318.5,NULL
+524,Asus,"STRIX GAMING","GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1800000000}",Black,301,NULL
+525,Asus,"STRIX GAMING","Radeon RX 590","{'total': 8000000000}","{'cycles': 1469000000}","{'cycles': 1565000000}",Black,298,NULL
+526,Asus,"STRIX GAMING","GeForce RTX 3070","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1755000000}",Black,318.5,NULL
+527,Asus,"STRIX GAMING","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1680000000}",Black,300,NULL
+528,Asus,"STRIX GAMING","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1845000000}",Black,299.7,NULL
+529,Asus,"STRIX GAMING","GeForce RTX 2070 SUPER","{'total': 8000000000}","{'cycles': 1635000000}","{'cycles': 1800000000}",Black,299.7,NULL
+530,Asus,"STRIX GAMING","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1650000000}",Black,300.5,NULL
+531,Asus,"STRIX GAMING","GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}","{'cycles': 1560000000}",Black,304.7,NULL
+532,Asus,"STRIX GAMING","GeForce GTX 1650","{'total': 4000000000}","{'cycles': 1485000000}","{'cycles': 1695000000}",Black,242,NULL
+533,Asus,"STRIX GAMING","GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}",NULL,Black,299.7,NULL
+534,Asus,"STRIX GAMING","GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1569000000}","{'cycles': 1708000000}",Black,298,NULL
+535,Asus,"STRIX GAMING","Radeon RX 470","{'total': 8000000000}","{'cycles': 926000000}","{'cycles': 1270000000}",Black,242,NULL
+536,Asus,"STRIX GAMING","GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1493000000}","{'cycles': 1632000000}",Black,298,NULL
+537,Asus,"STRIX GAMING","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1815000000}","Black / Silver",243,NULL
+538,Asus,"STRIX GAMING Advanced","GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1830000000}",Black,301,NULL
+539,Asus,"STRIX GAMING Advanced","GeForce RTX 2070 SUPER","{'total': 8000000000}","{'cycles': 1635000000}","{'cycles': 1830000000}",Black,299.7,NULL
+540,Asus,"STRIX GAMING Advanced","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1845000000}","Black / Silver",243,NULL
+541,Asus,"STRIX GAMING Advanced","GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}",NULL,Black,304.7,NULL
+542,Asus,"STRIX GAMING Advanced","GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}",NULL,Black,299.7,NULL
+543,Asus,"STRIX GAMING Advanced","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1680000000}",Black,300.5,NULL
+544,Asus,"STRIX GAMING Advanced","GeForce RTX 2060 SUPER","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1710000000}",Black,301,NULL
+545,Asus,"STRIX GAMING Advanced","GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1518000000}","{'cycles': 1759000000}",Black,298,NULL
+546,Asus,"STRIX GAMING Advanced","GeForce GTX 1650 SUPER","{'total': 4000000000}","{'cycles': 1530000000}","{'cycles': 1770000000}",Black,243,NULL
+547,Asus,"STRIX GAMING Advanced","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1759000000}",NULL,300,NULL
+548,Asus,"STRIX GAMING Advanced","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1860000000}",Black,299.7,NULL
+549,Asus,"STRIX GAMING Advanced OC","GeForce GTX 1650","{'total': 4000000000}","{'cycles': 1485000000}","{'cycles': 1710000000}",Black,242,NULL
+550,Asus,"STRIX GAMING OC","GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}","{'cycles': 1665000000}",Black,304.7,NULL
+551,Asus,"STRIX GAMING OC","GeForce RTX 3080","{'total': 10000000000}","{'cycles': 1440000000}","{'cycles': 1935000000}",Black,318.5,NULL
+552,Asus,"STRIX GAMING OC","Radeon RX 5500 XT","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1865000000}",Black,280,NULL
+553,Asus,"STRIX GAMING OC","Radeon RX 570","{'total': 8000000000}","{'cycles': 1168000000}","{'cycles': 1310000000}",Black,240,NULL
+554,Asus,"STRIX GAMING OC","Radeon RX 5600 XT","{'total': 6000000000}","{'cycles': 1247000000}","{'cycles': 1770000000}",Black,303.7,NULL
+555,Asus,"STRIX GAMING OC","GeForce GTX 1650","{'total': 4000000000}","{'cycles': 1485000000}","{'cycles': 1860000000}",Black,242,NULL
+556,Asus,"STRIX GAMING OC","GeForce RTX 2060 SUPER","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1860000000}",Black,301,NULL
+557,Asus,"STRIX GAMING OC","GeForce RTX 3090","{'total': 24000000000}","{'cycles': 1400000000}","{'cycles': 1890000000}",Black,318.5,NULL
+558,Asus,"STRIX GAMING OC","Radeon RX 5700","{'total': 8000000000}","{'cycles': 1610000000}","{'cycles': 1750000000}",Black,305,NULL
+559,Asus,"STRIX GAMING OC","GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1890000000}",Black,301,NULL
+560,Asus,"STRIX GAMING OC","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1890000000}",White,305,NULL
+561,Asus,"STRIX GAMING OC","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1770000000}","{'cycles': 2035000000}",Black,305,NULL
+562,Asus,"STRIX GAMING OC","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1875000000}","Black / Silver",243,NULL
+563,Asus,"STRIX GAMING OC","GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}","{'cycles': 1890000000}",NULL,297.7,NULL
+564,Asus,"STRIX GAMING OC","GeForce RTX 2070 SUPER","{'total': 8000000000}","{'cycles': 1635000000}","{'cycles': 1935000000}",Black,299.7,NULL
+565,Asus,"STRIX GAMING OC","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1845000000}",Black,305,NULL
+566,Asus,"STRIX GAMING OC","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1860000000}",Black,300,NULL
+567,Asus,"STRIX GAMING OC","GeForce GTX 1650 SUPER","{'total': 4000000000}","{'cycles': 1530000000}","{'cycles': 1815000000}",Black,243,NULL
+568,Asus,"STRIX GAMING OC","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1890000000}",Black,299.7,NULL
+569,Asus,"STRIX GAMING OC","GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}","{'cycles': 1770000000}",White,305,NULL
+570,Asus,"STRIX OC","GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1569000000}","{'cycles': 1811000000}","Black / Red",218,NULL
+571,Asus,"STRIX OC","Radeon RX 460","{'total': 4000000000}","{'cycles': 1090000000}","{'cycles': 1256000000}",Black,194,NULL
+572,Asus,STRIX-GTX750TI-DC2OC-4GD5,"GeForce GTX 750 Ti","{'total': 4000000000}","{'cycles': 1124000000}","{'cycles': 1202000000}","Black / Red",196,NULL
+573,Asus,STRIX-GTX950-DC2OC-2GD5-GAMING,"GeForce GTX 950","{'total': 2000000000}","{'cycles': 1024000000}","{'cycles': 1140000000}","Black / Red",218,NULL
+574,Asus,STRIX-GTX950-DC2OC-2GD5-GAMING,"GeForce GTX 950","{'total': 2000000000}","{'cycles': 1165000000}","{'cycles': 1355000000}","Black / Red",221,NULL
+575,Asus,STRIX-GTX960-DC2OC-2GD5,"GeForce GTX 960","{'total': 2000000000}","{'cycles': 1228000000}","{'cycles': 1291000000}",Black,215,NULL
+576,Asus,STRIX-GTX960-DC2OC-4GD5,"GeForce GTX 960","{'total': 4000000000}","{'cycles': 1253000000}","{'cycles': 1317000000}","Black / Red",216,NULL
+577,Asus,STRIX-GTX960-DCOC-4GD5,"GeForce GTX 960","{'total': 2000000000}","{'cycles': 1228000000}","{'cycles': 1317000000}","Black / Red",216,NULL
+578,Asus,STRIX-GTX970-DC2-4GD5,"GeForce GTX 970","{'total': 4000000000}","{'cycles': 1051000000}","{'cycles': 1178000000}","Black / Red",280,NULL
+579,Asus,STRIX-GTX980-DC2-4GD5,"GeForce GTX 980","{'total': 4000000000}","{'cycles': 1126000000}","{'cycles': 1216000000}","Black / Red",289,NULL
+580,Asus,STRIX-GTX980TI-DC3-6GD5-GAMING,"GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1000000000}","{'cycles': 1075000000}","Black / Red",305,NULL
+581,Asus,STRIX-R7370-DC2OC-2GD5-GAMING,"Radeon R7 370","{'total': 2000000000}","{'cycles': 1050000000}",NULL,"Black / Red",228,NULL
+582,Asus,STRIX-R7370-DC2OC-4GD5-GAMING,"Radeon R7 370","{'total': 4000000000}","{'cycles': 1050000000}",NULL,"Black / Red",214,NULL
+583,Asus,STRIX-R9380-DC2OC-2GD5-GAMING,"Radeon R9 380","{'total': 2000000000}","{'cycles': 990000000}",NULL,"Black / Red",271,NULL
+584,Asus,STRIX-R9380-DC2OC-4G,"Radeon R9 380","{'total': 4000000000}","{'cycles': 990000000}",NULL,"Black / Red",271,NULL
+585,Asus,STRIX-R9380-DC2OC-4GD5-GAMING,"Radeon R9 380","{'total': 4000000000}","{'cycles': 990000000}",NULL,"Black / Red",271,NULL
+586,Asus,STRIX-R9380X-4G-GAMING,"Radeon R9 380X","{'total': 4000000000}","{'cycles': 970000000}",NULL,"Black / Red",271,NULL
+587,Asus,STRIX-R9380X-OC4G-GAMING,"Radeon R9 380X","{'total': 4000000000}","{'cycles': 1030000000}",NULL,"Black / Red",271,NULL
+588,Asus,STRIX-R9390-DC3OC-8GD5-GAMING,"Radeon R9 390","{'total': 8000000000}","{'cycles': 1050000000}",NULL,"Black / Red",300,NULL
+589,Asus,STRIX-R9390X-DC3OC-8GD5-GAMING,"Radeon R9 390X","{'total': 8000000000}","{'cycles': 1070000000}",NULL,"Black / Red",300,NULL
+590,Asus,STRIX-R9FURY-DC3-4G-GAMING,"Radeon R9 Fury","{'total': 4000000000}","{'cycles': 1000000000}","{'cycles': 1020000000}","Black / Red",300,NULL
+591,Asus,TUF,"GeForce GTX 1660","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1815000000}","Black / Gray",205,NULL
+592,Asus,TUF,"GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1800000000}","Black / Gray",205,NULL
+593,Asus,"TUF GAMING","GeForce RTX 3090","{'total': 24000000000}","{'cycles': 1400000000}","{'cycles': 1725000000}",Black,299.9,NULL
+594,Asus,"TUF GAMING","GeForce RTX 3080","{'total': 10000000000}","{'cycles': 1440000000}","{'cycles': 1740000000}",Black,299.9,NULL
+595,Asus,"TUF GAMING","GeForce GTX 1650 SUPER","{'total': 4000000000}","{'cycles': 1530000000}","{'cycles': 1755000000}",Black,206,NULL
+596,Asus,"TUF GAMING OC","GeForce RTX 3080","{'total': 10000000000}","{'cycles': 1440000000}",NULL,Black,299.9,NULL
+597,Asus,"TUF GAMING OC","GeForce RTX 3090","{'total': 24000000000}","{'cycles': 1400000000}",NULL,Black,299.9,NULL
+598,Asus,"TUF GAMING OC","GeForce GTX 1660","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1785000000}",Black,264,NULL
+599,Asus,"TUF GAMING OC","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1845000000}",Black,206,NULL
+600,Asus,"TUF GAMING OC","GeForce RTX 3070","{'total': 8000000000}","{'cycles': 1500000000}",NULL,Black,299.9,NULL
+601,Asus,"TUF GAMING OC","GeForce GTX 1650 SUPER","{'total': 4000000000}","{'cycles': 1530000000}","{'cycles': 1800000000}",Black,205.74,NULL
+602,Asus,"TUF Gaming X3 EVO OC","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1605000000}","{'cycles': 1980000000}",Black,282.6,NULL
+603,Asus,"TUF Gaming X3 EVO OC","Radeon RX 5600 XT","{'total': 6000000000}","{'cycles': 1247000000}","{'cycles': 1770000000}","Black / Silver",282.6,NULL
+604,Asus,"TUF Gaming X3 OC","Radeon RX 5700","{'total': 8000000000}","{'cycles': 1565000000}","{'cycles': 1750000000}",Black,269,NULL
+605,Asus,"TUF Gaming X3 OC","Radeon RX 5700 XT","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1980000000}",Black,269,NULL
+606,Asus,"TUF Gaming X3 OC","GeForce GTX 1660 SUPER","{'total': 6000000000}","{'cycles': 1530000000}",NULL,Black,264,NULL
+607,Asus,"TUF OC","GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1740000000}","Black / Gray",204,NULL
+608,Asus,"TUF OC","GeForce GTX 1660 Ti","{'total': 6000000000}","{'cycles': 1500000000}","{'cycles': 1830000000}","Black / Gray",205,NULL
+609,Asus,"TUF OC","GeForce GTX 1660","{'total': 6000000000}","{'cycles': 1530000000}","{'cycles': 1845000000}","Black / Gray",205,NULL
+610,Asus,TURBO-GTX1070-8G,"GeForce GTX 1070","{'total': 8000000000}","{'cycles': 1506000000}","{'cycles': 1683000000}","Black / Silver",267,NULL
+611,Asus,TURBO-GTX960-OC-2GD5,"GeForce GTX 960","{'total': 2000000000}","{'cycles': 1190000000}","{'cycles': 1253000000}","White / Red",264,NULL
+612,Asus,TURBO-GTX960-OC-4GD5,"GeForce GTX 960","{'total': 4000000000}","{'cycles': 1190000000}","{'cycles': 1253000000}","White / Red",264,NULL
+613,Asus,TURBO-GTX970-OC-4GD5,"GeForce GTX 970","{'total': 4000000000}","{'cycles': 1088000000}","{'cycles': 1228000000}","White / Red",264,NULL
+614,Asus,Turbo,"GeForce RTX 2080 Ti","{'total': 11000000000}","{'cycles': 1350000000}",NULL,Black,269,NULL
+615,Asus,Turbo,"GeForce GTX 1060 6GB","{'total': 6000000000}","{'cycles': 1506000000}","{'cycles': 1708000000}",Black,267,NULL
+616,Asus,Turbo,"GeForce RTX 2060","{'total': 6000000000}","{'cycles': 1365000000}","{'cycles': 1710000000}","Black / Silver",268,NULL
+617,Asus,Turbo,"GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1733000000}","Black / Silver",267,NULL
+618,Asus,Turbo,"GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1480000000}","{'cycles': 1582000000}","Black / White",267,NULL
+619,Asus,Turbo,"GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}",NULL,Black,268,NULL
+620,Asus,Turbo,"GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1650000000}","Black / Silver",268,NULL
+621,Asus,Turbo,"GeForce GTX 1070 Ti","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1721000000}",NULL,267,NULL
+622,Asus,"Turbo EVO","GeForce RTX 2060 SUPER","{'total': 8000000000}","{'cycles': 1500000000}","{'cycles': 1680000000}",Black,268,NULL
+623,Asus,"Turbo EVO","GeForce RTX 2070","{'total': 8000000000}","{'cycles': 1410000000}","{'cycles': 1650000000}","Black / Silver",268,NULL
+624,Asus,"Turbo EVO","GeForce RTX 2070 SUPER","{'total': 8000000000}","{'cycles': 1635000000}","{'cycles': 1800000000}",Black,268,NULL
+625,Asus,"Turbo EVO","GeForce RTX 2080 SUPER","{'total': 8000000000}","{'cycles': 1650000000}","{'cycles': 1845000000}","Black / Silver",268,NULL
+626,Asus,"Turbo EVO","GeForce RTX 2080","{'total': 8000000000}","{'cycles': 1515000000}","{'cycles': 1740000000}",Black,268,NULL
+627,Asus,X9290-DC2T-4GD5,"Radeon R9 290X","{'total': 4000000000}","{'cycles': 772000000}","{'cycles': 1000000000}","Black / Red",275,NULL
+628,BFG,BFGE94512GTE,"GeForce 9400 GT","{'total': 500000000}",NULL,NULL,"Blue / White",NULL,NULL
+629,Biostar,V8502GT21,"GeForce 8500 GT","{'total': 250000000}","{'cycles': 450000000}",NULL,NULL,NULL,NULL
+630,Biostar,VA4352NH56,"Radeon HD 4350","{'total': 500000000}","{'cycles': 600000000}",NULL,"Red / White",NULL,NULL
+631,Biostar,VA5452NH56,"Radeon HD 5450","{'total': 500000000}","{'cycles': 650000000}",NULL,"Red / Silver",NULL,NULL
+632,Biostar,VA5453NH56,"Radeon HD 5450","{'total': 500000000}","{'cycles': 550000000}",NULL,NULL,NULL,NULL
+633,Biostar,VA5453NHG6,"Radeon HD 5450","{'total': 1000000000}","{'cycles': 550000000}",NULL,NULL,NULL,NULL
+634,Biostar,VA5552NHG1,"Radeon HD 5550","{'total': 1000000000}",NULL,NULL,NULL,NULL,NULL
+635,Biostar,VA5553NHG1,"Radeon HD 5550","{'total': 1000000000}","{'cycles': 650000000}",NULL,NULL,NULL,NULL
+636,Biostar,VA5573NHG1,"Radeon HD 5570","{'total': 1000000000}","{'cycles': 650000000}",NULL,NULL,NULL,NULL
+637,Biostar,VA5675NHG1,"Radeon HD 5670","{'total': 1000000000}","{'cycles': 775000000}",NULL,NULL,NULL,NULL
+638,Biostar,VA5755NHG1,"Radeon HD 5750","{'total': 1000000000}","{'cycles': 700000000}",NULL,NULL,NULL,NULL
+639,Biostar,VA5775NHG1,"Radeon HD 5770","{'total': 1000000000}","{'cycles': 850000000}",NULL,NULL,NULL,NULL
+640,Biostar,VA6855NPG2,"Radeon HD 6850","{'total': 1000000000}","{'cycles': 775000000}",NULL,NULL,NULL,NULL
+641,Biostar,VA6875NPG2,"Radeon HD 6870","{'total': 1000000000}","{'cycles': 900000000}",NULL,NULL,NULL,NULL
+642,"Club 3D",'14,"Radeon R9 270","{'total': 2000000000}","{'cycles': 900000000}","{'cycles': 955000000}","Black / Red",210,NULL
+643,"Club 3D",'14,"Radeon R9 270X","{'total': 2000000000}","{'cycles': 1000000000}","{'cycles': 1080000000}","Black / Red",210,NULL
+644,"Club 3D",CGAX-4872DDO,"Radeon HD 4870","{'total': 500000000}","{'cycles': 800000000}",NULL,NULL,NULL,NULL
+645,"Club 3D",CGAX-7758LM4,"Radeon HD 7750","{'total': 2000000000}","{'cycles': 800000000}",NULL,"Black / Red",167,NULL
+646,"Club 3D",CGAX-7876XT,"Radeon HD 7870 XT","{'total': 2000000000}","{'cycles': 925000000}",NULL,"Black / Red",268,NULL
+647,"Club 3D",CGAX-R9276,"Radeon R9 270","{'total': 2000000000}","{'cycles': 900000000}","{'cycles': 955000000}","Black / Red",210,NULL
+648,"Club 3D",CGAX-R9FX8,"Radeon R9 Fury X","{'total': 4000000000}","{'cycles': 1050000000}",NULL,"Black / Red",195,NULL
+649,"Club 3D",royalAce,"Radeon R9 290X","{'total': 4000000000}","{'cycles': 1050000000}",NULL,"Black / Red",308,NULL
+650,"Club 3D",royalAce,"Radeon R9 290","{'total': 4000000000}","{'cycles': 1040000000}",NULL,"Black / Red",308,NULL
+651,"Club 3D",royalKing,"Radeon R9 280X","{'total': 3000000000}","{'cycles': 1050000000}","{'cycles': 1100000000}","Black / Red",266,NULL
+652,"Club 3D",royalKing,"Radeon R9 270X","{'total': 2000000000}","{'cycles': 1030000000}","{'cycles': 1080000000}","Black / Red",210,NULL
+653,"Club 3D",royalKing,"Radeon R7 260X","{'total': 2000000000}",NULL,"{'cycles': 1160000000}","Black / Red",223,NULL
+654,"Club 3D",royalKing,"Radeon R9 290","{'total': 4000000000}","{'cycles': 975000000}",NULL,Black,270,NULL
+655,"Club 3D",royalKing,"Radeon R9 280","{'total': 3000000000}","{'cycles': 827000000}","{'cycles': 960000000}","Black / Red",NULL,NULL
+656,"Club 3D",royalKing,"Radeon R7 260X","{'total': 2000000000}","{'cycles': 1050000000}","{'cycles': 1160000000}","Black / Red",223,NULL
+657,"Club 3D",royalQueen,"Radeon HD 7970","{'total': 3000000000}","{'cycles': 925000000}","{'cycles': 975000000}","Black / Red",268,NULL
+658,"Club 3D",royalQueen,"Radeon R9 270X","{'total': 2000000000}","{'cycles': 1000000000}","{'cycles': 1080000000}",Black,211,NULL
+659,"Club 3D",royalQueen,"Radeon R7 265","{'total': 2000000000}",NULL,"{'cycles': 925000000}","Black / Red",198,NULL
+660,"Club 3D",royalQueen,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Purple",198,NULL
+661,"Club 3D",royalQueen,"Radeon R9 280X","{'total': 3000000000}","{'cycles': 850000000}","{'cycles': 1000000000}","Black / Red",266,NULL
+662,"Club 3D","royalQueen OC","Radeon R9 390","{'total': 8000000000}","{'cycles': 1010000000}",NULL,"Black / Red",NULL,NULL
+663,"Club 3D","royalQueen OC","Radeon R9 380","{'total': 4000000000}","{'cycles': 980000000}",NULL,"Black / Red",207,NULL
+664,Colorful,"iGame GTX1080Ti Vulcan X OC","GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1480000000}","{'cycles': 1733000000}",Black,317,NULL
+665,Corsair,CB-9060010-WW,"GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1847000000}","Black / Silver",270,NULL
+666,Corsair,CB-9060011-WW,"GeForce GTX 1080 Ti","{'total': 11000000000}","{'cycles': 1569000000}","{'cycles': 1683000000}","Black / Gray",269,NULL
+667,Dell,469-4186,"Quadro K600","{'total': 1000000000}","{'cycles': 876000000}",NULL,"Black / Green",160,NULL
+668,Diamond,5450PE31G,"Radeon HD 5450","{'total': 1000000000}","{'cycles': 650000000}",NULL,"Red / Silver",152,NULL
+669,Diamond,5450PE512,"Radeon HD 5450","{'total': 500000000}","{'cycles': 650000000}",NULL,"Red / Silver",NULL,NULL
+670,Diamond,5550PE31G,"Radeon HD 5550","{'total': 1000000000}","{'cycles': 550000000}",NULL,"Black / Blue",170,NULL
+671,Diamond,5570PE31G,"Radeon HD 5570","{'total': 1000000000}","{'cycles': 650000000}",NULL,NULL,170,NULL
+672,Diamond,5670PE51G,"Radeon HD 5670","{'total': 1000000000}","{'cycles': 775000000}",NULL,"Black / Blue",182,NULL
+673,Diamond,5750PE51G,"Radeon HD 5750","{'total': 1000000000}","{'cycles': 700000000}",NULL,NULL,NULL,NULL
+674,Diamond,5750PE51GSB,"Radeon HD 5750","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Red",NULL,NULL
+675,Diamond,5770PE51G,"Radeon HD 5770","{'total': 1000000000}","{'cycles': 850000000}",NULL,NULL,NULL,NULL
+676,Diamond,5770PE51GSB,"Radeon HD 5770","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",NULL,NULL
+677,Diamond,5830PE51G,"Radeon HD 5830","{'total': 1000000000}","{'cycles': 825000000}",NULL,"Black / Red",NULL,NULL
+678,Diamond,5850PE51G,"Radeon HD 5850","{'total': 1000000000}","{'cycles': 725000000}",NULL,NULL,NULL,NULL
+679,Diamond,5870PE51G,"Radeon HD 5870","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",NULL,NULL
+680,Diamond,5870PE52G,"Radeon HD 5870","{'total': 2000000000}","{'cycles': 850000000}",NULL,"Black / Red",NULL,NULL
+681,Diamond,6450PE31G,"Radeon HD 6450","{'total': 1000000000}","{'cycles': 625000000}",NULL,"Red / Silver",NULL,NULL
+682,Diamond,6450PE31GSS,"Radeon HD 6450","{'total': 1000000000}","{'cycles': 625000000}",NULL,Red,NULL,NULL
+683,Diamond,6570PE31G,"Radeon HD 6570","{'total': 1000000000}","{'cycles': 650000000}",NULL,"Black / Red",NULL,NULL
+684,Diamond,6570PE32G,"Radeon HD 6570","{'total': 2000000000}","{'cycles': 650000000}",NULL,"Black / Red",147,NULL
+685,Diamond,6670PE32G,"Radeon HD 6670","{'total': 2000000000}","{'cycles': 800000000}",NULL,"Black / Red",152,NULL
+686,Diamond,6670PE51G,"Radeon HD 6670","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Red",NULL,NULL
+687,Diamond,6670PE51GV2,"Radeon HD 6670","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Blue",162,NULL
+688,Diamond,6750PE51GSB,"Radeon HD 6750","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",215,NULL
+689,Diamond,6770PE51GB,"Radeon HD 6770","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",220,NULL
+690,Diamond,6770PE51GE,"Radeon HD 6770","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Red",NULL,NULL
+691,Diamond,6850PE51G,"Radeon HD 6850","{'total': 1000000000}","{'cycles': 775000000}",NULL,NULL,NULL,NULL
+692,Diamond,6870PE51G,"Radeon HD 6870","{'total': 1000000000}","{'cycles': 900000000}",NULL,NULL,NULL,NULL
+693,Diamond,6870PE51GB,"Radeon HD 6870","{'total': 1000000000}","{'cycles': 900000000}",NULL,NULL,248,NULL
+694,Diamond,6870PE51GV2,"Radeon HD 6870","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Blue",248,NULL
+695,Diamond,6950PE51G,"Radeon HD 6950","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Red",271,NULL
+696,Diamond,6950PE52G,"Radeon HD 6950","{'total': 2000000000}","{'cycles': 800000000}",NULL,"Black / Red",271,NULL
+697,Diamond,6950PE52GB,"Radeon HD 6950","{'total': 2000000000}","{'cycles': 800000000}",NULL,NULL,271,NULL
+698,Diamond,6970PE52G,"Radeon HD 6970","{'total': 2000000000}","{'cycles': 880000000}",NULL,"Black / Red",271,NULL
+699,Diamond,6990PE54G,"Radeon HD 6990","{'total': 4000000000}","{'cycles': 830000000}",NULL,"Black / Red",NULL,NULL
+700,Diamond,7750PE51G,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Blue",223,NULL
+701,Diamond,7750PE51GLP,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Silver",223,NULL
+702,Diamond,7750PE51GV,"Radeon HD 7750","{'total': 1000000000}","{'cycles': 800000000}",NULL,"Black / Red",162,NULL
+703,Diamond,7770PE51G,"Radeon HD 7770","{'total': 1000000000}","{'cycles': 1000000000}",NULL,"Black / Blue",223,NULL
+704,Diamond,7770PE51GV,"Radeon HD 7770 GHz Edition","{'total': 1000000000}","{'cycles': 1000000000}",NULL,"Black / Red",162,NULL
+705,Diamond,7850PE52G,"Radeon HD 7850","{'total': 2000000000}","{'cycles': 860000000}",NULL,"Black / Red",203,NULL
+706,Diamond,7850PE52GV,"Radeon HD 7850","{'total': 2000000000}","{'cycles': 860000000}",NULL,"Black / Red",208,NULL
+707,Diamond,7850PE52GV2,"Radeon HD 7850","{'total': 2000000000}","{'cycles': 860000000}",NULL,"Black / Blue",220,NULL
+708,Diamond,7870PE52G,"Radeon HD 7870","{'total': 2000000000}","{'cycles': 1000000000}",NULL,"Black / Red",248,NULL
+709,Diamond,7870PE52GV,"Radeon HD 7870 GHz Edition","{'total': 2000000000}","{'cycles': 1000000000}",NULL,"Black / Red",208,NULL
+710,Diamond,7970PE53G,"Radeon HD 7970","{'total': 3000000000}","{'cycles': 925000000}",NULL,"Black / Red",294,NULL
+711,Diamond,7970PE53GDD,"Radeon HD 7970","{'total': 3000000000}","{'cycles': 1025000000}",NULL,"Black / Red",294,NULL
+712,Diamond,A4870PE5512,"Radeon HD 4870","{'total': 500000000}","{'cycles': 750000000}",NULL,NULL,NULL,NULL
+713,Diamond,A4890PE51G,"Radeon HD 4890","{'total': 1000000000}","{'cycles': 850000000}",NULL,NULL,NULL,NULL
+714,Diamond,A5970PE52G,"Radeon HD 5970","{'total': 2000000000}","{'cycles': 725000000}",NULL,NULL,NULL,NULL
+715,Diamond,R5230D31G,"Radeon R5 230","{'total': 1000000000}","{'cycles': 625000000}",NULL,"Black / Blue",170,NULL
+716,Diamond,R7240D32G,"Radeon R7 240","{'total': 2000000000}","{'cycles': 730000000}",NULL,"Black / Blue",170,NULL
+717,Diamond,R7240D32GXOC,"Radeon R7 240","{'total': 2000000000}","{'cycles': 730000000}","{'cycles': 780000000}","Black / Blue",170,NULL
+718,Diamond,R7240D51GXOC,"Radeon R7 240","{'total': 1000000000}","{'cycles': 780000000}",NULL,"Black / Silver",167,NULL
+719,Diamond,R7250D51G,"Radeon R7 250","{'total': 1000000000}","{'cycles': 1000000000}",NULL,"Black / Blue",170,NULL
+720,Diamond,R7250D51GXOC,"Radeon R7 250","{'total': 1000000000}","{'cycles': 1000000000}","{'cycles': 1050000000}","Black / Blue",170,NULL
+721,Diamond,R9270XD52GXOC,"Radeon R9 270X","{'total': 2000000000}","{'cycles': 1030000000}","{'cycles': 1080000000}","Black / Red",220,NULL
+722,Diamond,R9270XD52GXOCV2,"Radeon R9 270X","{'total': 2000000000}","{'cycles': 1000000000}","{'cycles': 1050000000}","Black / Red",261,NULL
+723,Diamond,R9280XD53G,"Radeon R9 280X","{'total': 3000000000}","{'cycles': 850000000}",NULL,"Black / Red",309,NULL
+724,Diamond,R9280XD53GX2C,"Radeon R9 280X","{'total': 3000000000}","{'cycles': 850000000}","{'cycles': 1000000000}","Black / Red",309,NULL
+725,Diamond,R9280XD53GXOC,"Radeon R9 280X","{'total': 3000000000}","{'cycles': 850000000}","{'cycles': 1000000000}","Black / Red",309,NULL
+726,Diamond,R9290D54G,"Radeon R9 290","{'total': 4000000000}","{'cycles': 947000000}",NULL,"Black / Red",274,NULL
+727,Diamond,R9290D54GV2,"Radeon R9 290","{'total': 4000000000}","{'cycles': 947000000}",NULL,"Black / Blue",309,NULL
+728,Diamond,R9290XD54G,"Radeon R9 290X","{'total': 4000000000}","{'cycles': 947000000}",NULL,"Black / Red",274,NULL
+729,Diamond,R9290XD54GV2,"Radeon R9 290X","{'total': 4000000000}","{'cycles': 1000000000}",NULL,"Black / Blue",309,NULL
+730,Diamond,R9295X2D58G,"Radeon R9 295X2","{'total': 8000000000}","{'cycles': 1018000000}",NULL,"Black / Silver",309,NULL
+731,Diamond,RX480D58G,"Radeon RX 480","{'total': 8000000000}","{'cycles': 1120000000}","{'cycles': 1266000000}","Black / Red",255,NULL
+732,Diamond,RX580D58G,"Radeon RX 580","{'total': 8000000000}","{'cycles': 1340000000}","{'cycles': 1340000000}","Black / Red",266.7,NULL
+733,ECS,EGT640A-2GR3-YBF(v1.0),"GeForce GT 640","{'total': 2000000000}","{'cycles': 930000000}",NULL,NULL,NULL,NULL
+734,ECS,GT610C-1GR3-QFT(v1.0),"GeForce GT 610","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Blue",NULL,NULL
+735,ECS,GT620C-1GR3-QFT,"GeForce GT 620","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Blue",NULL,NULL
+736,ECS,GT620C-2GR3-QFT,"GeForce GT 620","{'total': 2000000000}","{'cycles': 700000000}",NULL,"Black / Blue",NULL,NULL
+737,ECS,GT630A-1GR3-QFT,"GeForce GT 630","{'total': 1000000000}","{'cycles': 810000000}",NULL,NULL,NULL,NULL
+738,ECS,GTX650TI-1GR5-YFM,"GeForce GTX 650 Ti","{'total': 1000000000}","{'cycles': 928000000}",NULL,"Black / Silver",160,NULL
+739,ECS,N8400GSC-1GQS-F,"GeForce 8400 GS","{'total': 1000000000}","{'cycles': 520000000}",NULL,NULL,NULL,NULL
+740,ECS,N9500GTC-1GQS-F,"GeForce 9500 GT","{'total': 1000000000}",NULL,NULL,"Black / Silver",NULL,NULL
+741,ECS,NBGTS450-1GPI-F,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 850000000}",NULL,NULL,215.9,NULL
+742,ECS,NBGTX460-1GPI-F,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 765000000}",NULL,NULL,NULL,NULL
+743,ECS,NBGTX560-1GPI-F,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 870000000}",NULL,"Black / Green",NULL,NULL
+744,ECS,NGT430C-1GQM-F2,"GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Blue",NULL,NULL
+745,ECS,NGT430C-1GQR-F,"GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Silver",NULL,NULL
+746,ECS,NGT430C-2GQK-F,"GeForce GT 430","{'total': 2000000000}","{'cycles': 700000000}",NULL,NULL,NULL,NULL
+747,ECS,NGT430C-2GQKL-F,"GeForce GT 430","{'total': 2000000000}","{'cycles': 700000000}",NULL,NULL,NULL,NULL
+748,ECS,NGT440-1GQI-F,"GeForce GT 440","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Blue",NULL,NULL
+749,ECS,NGT440-1GQR-F2,"GeForce GT 440","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Blue",NULL,NULL
+750,ECS,NGT440-2GQM-F,"GeForce GT 440","{'total': 2000000000}","{'cycles': 810000000}",NULL,NULL,NULL,NULL
+751,ECS,NGT440-512QI-F,"GeForce GT 440","{'total': 500000000}","{'cycles': 810000000}",NULL,NULL,NULL,NULL
+752,ECS,NGT440-512QI-F1,"GeForce GT 440","{'total': 500000000}","{'cycles': 810000000}",NULL,"Black / Blue",NULL,NULL
+753,ECS,NGT520C-1GQM-F2,"GeForce GT 520","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Blue",NULL,NULL
+754,ECS,NGT520C-2GQK-F,"GeForce GT 520","{'total': 2000000000}","{'cycles': 810000000}",NULL,NULL,NULL,NULL
+755,ECS,NGTS450-1GPI-F,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 783000000}",NULL,Black,NULL,NULL
+756,ECS,NGTS450-1GPI-F1,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 783000000}",NULL,NULL,NULL,NULL
+757,ECS,NGTS450-1GPL-F,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 783000000}",NULL,"Black / Green",NULL,NULL
+758,ECS,NGTX460-1GPI-F,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 675000000}",NULL,NULL,NULL,NULL
+759,ECS,NGTX460-1GPI-F1,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 675000000}",NULL,NULL,NULL,NULL
+760,ECS,NGTX550TI-1GPLI-F1,"GeForce GTX 550 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Blue",NULL,NULL
+761,ECS,NGTX560-1GPI-F,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 810000000}",NULL,NULL,NULL,NULL
+762,ECS,NGTX560-1GPI-F1,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 810000000}",NULL,Black,NULL,NULL
+763,ECS,NGTX560SE-1GPLI-F,"GeForce GTX 560 SE","{'total': 1000000000}","{'cycles': 736000000}",NULL,"Black / Blue",NULL,NULL
+764,ECS,NGTX560TI-1GPI-F,"GeForce GTX 560 Ti","{'total': 1000000000}",NULL,NULL,NULL,NULL,NULL
+765,ECS,NGTX560TI-1GPI-F1,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 820000000}",NULL,NULL,NULL,NULL
+766,ECS,NGTX570-1280PI-F,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 732000000}",NULL,NULL,NULL,NULL
+767,ECS,NGTX570-1280UI-F,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 732000000}",NULL,NULL,NULL,NULL
+768,ECS,NGTX580-1536PI-F,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 772000000}",NULL,"Black / Green",NULL,NULL
+769,ECS,NS8400GS2C-512SS-H,"GeForce 8400 GS","{'total': 500000000}","{'cycles': 567000000}",NULL,NULL,NULL,NULL
+770,ECS,NS8400GSC-1GQS-H,"GeForce 8400 GS","{'total': 1000000000}",NULL,NULL,NULL,NULL,NULL
+771,ECS,PGTX680AX-2GR5-WF(V1.0),"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Red",NULL,NULL
+772,EVGA,012-P3-1470-AR,"GeForce GTX 470","{'total': 1250000000}","{'cycles': 607000000}",NULL,"Black / Red",241,NULL
+773,EVGA,012-P3-1472-AR,"GeForce GTX 470","{'total': 1250000000}","{'cycles': 625000000}",NULL,"Black / Red",241,NULL
+774,EVGA,012-P3-1475-AR,"GeForce GTX 470","{'total': 1250000000}",NULL,NULL,"Black / Red",241,NULL
+775,EVGA,012-P3-1570-AR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 732000000}",NULL,"Black / Red",266,NULL
+776,EVGA,012-P3-1571-AR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 732000000}",NULL,"Black / Red",228,NULL
+777,EVGA,012-P3-1571-KR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 732000000}",NULL,"Black / Red",228,NULL
+778,EVGA,012-P3-1572-AR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 797000000}",NULL,"Black / Red",266,NULL
+779,EVGA,012-P3-1572-TR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 797000000}",NULL,"Black / Red",266,NULL
+780,EVGA,012-P3-1573-AR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 797000000}",NULL,"Black / Red",228,NULL
+781,EVGA,012-P3-1573-KR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 797000000}",NULL,"Black / Red",228,NULL
+782,EVGA,012-P3-1576-KR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 797000000}",NULL,NULL,266,NULL
+783,EVGA,012-P3-1577-KR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 732000000}",NULL,NULL,228,NULL
+784,EVGA,012-P3-1578-AR,"GeForce GTX 570","{'total': 1250000000}","{'cycles': 822000000}",NULL,"Black / Red",266,NULL
+785,EVGA,012-P3-2066-KR,"GeForce GTX 560 Ti 448","{'total': 1250000000}","{'cycles': 797000000}",NULL,"Black / Yellow",228,NULL
+786,EVGA,012-P3-2068-KR,"GeForce GTX 560 Ti 448","{'total': 1250000000}","{'cycles': 797000000}",NULL,"Black / Red",266,NULL
+787,EVGA,012-P3-2078-KR,"GeForce GTX 560 Ti 448","{'total': 1250000000}","{'cycles': 810000000}",NULL,Black,266,NULL
+788,EVGA,015-P3-1480-AR,"GeForce GTX 480","{'total': 1500000000}","{'cycles': 700000000}",NULL,"Black / Silver",266,NULL
+789,EVGA,015-P3-1480-KR,"GeForce GTX 480","{'total': 1500000000}","{'cycles': 700000000}",NULL,Black,266,NULL
+790,EVGA,015-P3-1482-AR,"GeForce GTX 480","{'total': 1500000000}","{'cycles': 726000000}",NULL,"Black / Silver",266,NULL
+791,EVGA,015-P3-1485-AR,"GeForce GTX 480","{'total': 1500000000}","{'cycles': 726000000}",NULL,"Black / Silver",266,NULL
+792,EVGA,015-P3-1580-AR,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 772000000}",NULL,"Black / Blue",266,NULL
+793,EVGA,015-P3-1580-TR,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 772000000}",NULL,"Black / Green",266,NULL
+794,EVGA,015-P3-1582-A1,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 797000000}",NULL,"Black / White",266,NULL
+795,EVGA,015-P3-1582-AR,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 797000000}",NULL,"Black / Green",NULL,NULL
+796,EVGA,015-P3-1582-TR,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 797000000}",NULL,"Black / Green",266,NULL
+797,EVGA,015-P3-1583-AR,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 797000000}",NULL,Black,266,NULL
+798,EVGA,015-P3-1587-AR,"GeForce GTX 580","{'total': 1500000000}","{'cycles': 797000000}",NULL,"Black / Blue",266,NULL
+799,EVGA,015-P3-N969-LR,"GeForce 9600 GSO","{'total': 1500000000}","{'cycles': 600000000}",NULL,NULL,NULL,NULL
+800,EVGA,01G-P1-N948-LR,"GeForce 9400 GT","{'total': 1000000000}",NULL,NULL,NULL,NULL,NULL
+801,EVGA,01G-P3-1145-TR,"GeForce GTS 250","{'total': 1000000000}","{'cycles': 675000000}",NULL,"Black / Green",241,NULL
+802,EVGA,01G-P3-1158-TR,"GeForce GTS 250","{'total': 1000000000}","{'cycles': 738000000}",NULL,"Black / Red",NULL,NULL
+803,EVGA,01G-P3-1302-LR,"GeForce 8400 GS","{'total': 1000000000}","{'cycles': 520000000}",NULL,"Black / Green",158,NULL
+804,EVGA,01G-P3-1303-KR,"GeForce 8400 GS","{'total': 1000000000}","{'cycles': 520000000}",NULL,"Black / Green",158,NULL
+805,EVGA,01G-P3-1335-KR,"GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",144,NULL
+806,EVGA,01G-P3-1351-KR,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 783000000}",NULL,"Black / Gold",209,NULL
+807,EVGA,01G-P3-1352-KR,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 783000000}",NULL,"Black / Gold",209,NULL
+808,EVGA,01G-P3-1361-KR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 823000000}",NULL,Black,209,NULL
+809,EVGA,01G-P3-1363-KR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 867000000}",NULL,Black,209,NULL
+810,EVGA,01G-P3-1366-TR,"GeForce GTX 460 SE","{'total': 1000000000}","{'cycles': 650000000}",NULL,"Black / Silver",209,NULL
+811,EVGA,01G-P3-1367-TR,"GeForce GTX 460 SE","{'total': 1000000000}","{'cycles': 720000000}",NULL,"Black / Silver",209,NULL
+812,EVGA,01G-P3-1370-KR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 720000000}",NULL,Black,209,NULL
+813,EVGA,01G-P3-1370-TR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 720000000}",NULL,"Black / Silver",209,NULL
+814,EVGA,01G-P3-1371-AR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 720000000}",NULL,"Black / Silver",209,NULL
+815,EVGA,01G-P3-1371-TR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 720000000}",NULL,"Black / Silver",209,NULL
+816,EVGA,01G-P3-1372-AR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 763000000}",NULL,NULL,209,NULL
+817,EVGA,01G-P3-1372-TR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 763000000}",NULL,"Black / Silver",209,NULL
+818,EVGA,01G-P3-1373-AR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 763000000}",NULL,"Black / Silver",209,NULL
+819,EVGA,01G-P3-1373-TR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 763000000}",NULL,"Black / Silver",209,NULL
+820,EVGA,01G-P3-1377-TR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Silver",209,NULL
+821,EVGA,01G-P3-1378-TR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Silver",210,NULL
+822,EVGA,01G-P3-1380-KR,"GeForce GTX 460","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Silver",209,NULL
+823,EVGA,01G-P3-1430-LR,"GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",168,NULL
+824,EVGA,01G-P3-1431-KR,"GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",165,NULL
+825,EVGA,01G-P3-1432-LR,"GeForce GT 430","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",144,NULL
+826,EVGA,01G-P3-1435-LR,"GeForce GT 430","{'total': 1000000000}","{'cycles': 735000000}",NULL,"Black / Green",NULL,NULL
+827,EVGA,01G-P3-1441-KR,"GeForce GT 440","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Green",144,NULL
+828,EVGA,01G-P3-1450-TR,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 822000000}",NULL,"Black / Gold",209,NULL
+829,EVGA,01G-P3-1452-TR,"GeForce GTS 450","{'total': 1000000000}","{'cycles': 882000000}",NULL,"Black / Gold",209,NULL
+830,EVGA,01G-P3-1460-KR,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Yellow",209,NULL
+831,EVGA,01G-P3-1461-KR,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Yellow",209,NULL
+832,EVGA,01G-P3-1463-KR,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Green",209,NULL
+833,EVGA,01G-P3-1464-KR,"GeForce GTX 560 SE","{'total': 1000000000}","{'cycles': 776000000}",NULL,"Black / Yellow",209,NULL
+834,EVGA,01G-P3-1465-AR,"GeForce GTX 465","{'total': 1000000000}","{'cycles': 607000000}",NULL,"Black / Silver",241,NULL
+835,EVGA,01G-P3-1466-KR,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Yellow",209,NULL
+836,EVGA,01G-P3-1467-AR,"GeForce GTX 465","{'total': 1000000000}","{'cycles': 625000000}",NULL,"Black / Silver",NULL,NULL
+837,EVGA,01G-P3-1468-KR,"GeForce GTX 560","{'total': 1000000000}","{'cycles': 931000000}",NULL,NULL,209,NULL
+838,EVGA,01G-P3-1521-KR,"GeForce GT 520","{'total': 1000000000}","{'cycles': 810000000}",NULL,Black,144,NULL
+839,EVGA,01G-P3-1523-KR,"GeForce GT 520","{'total': 1000000000}","{'cycles': 810000000}",NULL,Black,144,NULL
+840,EVGA,01G-P3-1526-KR,"GeForce GT 520","{'total': 1000000000}","{'cycles': 810000000}",NULL,Black,144,NULL
+841,EVGA,01G-P3-1556-KR,"GeForce GTX 550 Ti","{'total': 1000000000}","{'cycles': 951000000}",NULL,"Black / Green",209,NULL
+842,EVGA,01G-P3-1557-KR,"GeForce GTX 550 Ti","{'total': 1000000000}","{'cycles': 981000000}",NULL,"Black / Green",209,NULL
+843,EVGA,01G-P3-1560-KR,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 822000000}",NULL,"Black / Gold",NULL,NULL
+844,EVGA,01G-P3-1561-AR,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Gold",228,NULL
+845,EVGA,01G-P3-1561-KR,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 850000000}",NULL,"Black / Yellow",228,NULL
+846,EVGA,01G-P3-1563-A1,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,Black,228,NULL
+847,EVGA,01G-P3-1563-AR,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Gold",228,NULL
+848,EVGA,01G-P3-1563-KR,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,NULL,228,NULL
+849,EVGA,01G-P3-1567-AR,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Green",228,NULL
+850,EVGA,01G-P3-1567-KR,"GeForce GTX 560 Ti","{'total': 1000000000}","{'cycles': 900000000}",NULL,"Black / Green",228,NULL
+851,EVGA,01G-P3-1731-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 902000000}",NULL,"Black / Green",69,NULL
+852,EVGA,01G-P3-2611-KR,"GeForce GT 610","{'total': 1000000000}","{'cycles': 810000000}",NULL,NULL,144,NULL
+853,EVGA,01G-P3-2615-KR,"GeForce GT 610","{'total': 1000000000}","{'cycles': 810000000}",NULL,Black,144,NULL
+854,EVGA,01G-P3-2616-KR,"GeForce GT 610","{'total': 1000000000}",NULL,NULL,Black,NULL,NULL
+855,EVGA,01G-P3-2621-KR,"GeForce GT 620","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",144,NULL
+856,EVGA,01G-P3-2625-KR,"GeForce GT 620","{'total': 1000000000}","{'cycles': 700000000}",NULL,Black,144,NULL
+857,EVGA,01G-P3-2631-KR,"GeForce GT 630","{'total': 1000000000}","{'cycles': 810000000}",NULL,"Black / Green",144,NULL
+858,EVGA,01G-P3-2632-KR,"GeForce GT 630","{'total': 1000000000}","{'cycles': 810000000}",NULL,Black,144,NULL
+859,EVGA,01G-P3-2640-KR,"GeForce GT 640","{'total': 1000000000}","{'cycles': 901000000}",NULL,"Black / Green",171,NULL
+860,EVGA,01G-P3-2642-KR,"GeForce GT 640","{'total': 1000000000}","{'cycles': 1124000000}",NULL,Black,170,NULL
+861,EVGA,01G-P3-2710-KR,"GeForce GT 710","{'total': 1000000000}","{'cycles': 954000000}",NULL,Black,115,NULL
+862,EVGA,01G-P3-2711-KR,"GeForce GT 710","{'total': 1000000000}","{'cycles': 954000000}",NULL,Black,115,NULL
+863,EVGA,01G-P3-2716-KR,"GeForce GT 710","{'total': 1000000000}","{'cycles': 954000000}",NULL,Black,115,NULL
+864,EVGA,01G-P3-2722-KR,"GeForce GT 720","{'total': 1000000000}","{'cycles': 797000000}",NULL,"Black / Green",167,NULL
+865,EVGA,01G-P3-2730-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 700000000}",NULL,Black,144,NULL
+866,EVGA,01G-P3-2731-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",167,NULL
+867,EVGA,01G-P3-3711-KR,"GeForce GT 710","{'total': 1000000000}","{'cycles': 945000000}",NULL,NULL,145,NULL
+868,EVGA,01G-P3-3730-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 902000000}",NULL,Black,145,NULL
+869,EVGA,01G-P3-3731-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 902000000}",NULL,"Black / Green",144,NULL
+870,EVGA,01G-P3-3736-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 700000000}",NULL,"Black / Green",154,NULL
+871,EVGA,01G-P3-N959,"GeForce 9500 GT","{'total': 1000000000}","{'cycles': 550000000}",NULL,"Black / Green",165,NULL
+872,EVGA,01G-P3-N988-TR,"GeForce 9800 GT","{'total': 1000000000}","{'cycles': 550000000}",NULL,"Black / Green",228,NULL
+873,EVGA,01G-P4-2650-KR,"GeForce GTX 650","{'total': 1000000000}","{'cycles': 1058000000}",NULL,"Black / Silver",170,NULL
+874,EVGA,01G-P4-2652-KR,"GeForce GTX 650","{'total': 1000000000}","{'cycles': 1150000000}",NULL,"Black / Silver",170,NULL
+875,EVGA,01G-P4-2751-KR,"GeForce GTX 750","{'total': 1000000000}","{'cycles': 1020000000}","{'cycles': 1085000000}","Black / White",170,NULL
+876,EVGA,01G-P4-3650-KR,"GeForce GTX 650 Ti","{'total': 1000000000}","{'cycles': 928000000}",NULL,Black,152,NULL
+877,EVGA,01G-P4-3652-KR,"GeForce GTX 650 Ti","{'total': 1000000000}","{'cycles': 1071000000}",NULL,Black,152,NULL
+878,EVGA,01G-P4-3655-KR,"GeForce GTX 650 Ti Boost","{'total': 1000000000}","{'cycles': 980000000}",NULL,"Black / Silver",241,NULL
+879,EVGA,01G-P4-3656-KR,"GeForce GTX 650 Ti Boost","{'total': 1000000000}","{'cycles': 1072000000}",NULL,"Black / Silver",241,NULL
+880,EVGA,025-P3-1579-AR,"GeForce GTX 570","{'total': 2500000000}","{'cycles': 732000000}",NULL,"Black / Red",228,NULL
+881,EVGA,02G-P3-1386-KR,"GeForce GTX 460","{'total': 2000000000}","{'cycles': 700000000}",NULL,"Black / Silver",209,NULL
+882,EVGA,02G-P3-1387-AR,"GeForce GTX 460 X2","{'total': 2000000000}","{'cycles': 700000000}",NULL,"Black / Gold",292,NULL
+883,EVGA,02G-P3-1387-KR,"GeForce GTX 460 X2","{'total': 2000000000}","{'cycles': 700000000}",NULL,Black,292,NULL
+884,EVGA,02G-P3-1469-KR,"GeForce GTX 560","{'total': 2000000000}","{'cycles': 850000000}",NULL,"Black / Green",209,NULL
+885,EVGA,02G-P3-1529-KR,"GeForce GT 520","{'total': 2000000000}","{'cycles': 810000000}",NULL,Black,144,NULL
+886,EVGA,02G-P3-1559-KR,"GeForce GTX 550 Ti","{'total': 2000000000}","{'cycles': 900000000}",NULL,"Black / Green",209,NULL
+887,EVGA,02G-P3-1568-KR,"GeForce GTX 560 Ti","{'total': 2000000000}","{'cycles': 822000000}",NULL,"Black / Yellow",228,NULL
+888,EVGA,02G-P3-1569-KR,"GeForce GTX 560 Ti X2","{'total': 2000000000}","{'cycles': 850000000}",NULL,"Black / Yellow",292,NULL
+889,EVGA,02G-P3-1735-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 902000000}",NULL,Black,145,NULL
+890,EVGA,02G-P3-2617-KR,"GeForce GT 610","{'total': 2000000000}",NULL,NULL,Black,NULL,NULL
+891,EVGA,02G-P3-2619-KR,"GeForce GT 610","{'total': 2000000000}","{'cycles': 810000000}",NULL,Black,144,NULL
+892,EVGA,02G-P3-2629-KR,"GeForce GT 620","{'total': 2000000000}","{'cycles': 700000000}",NULL,"Black / Green",144,NULL
+893,EVGA,02G-P3-2639-KR,"GeForce GT 630","{'total': 2000000000}","{'cycles': 810000000}",NULL,NULL,144,NULL
+894,EVGA,02G-P3-2712-KR,"GeForce GT 710","{'total': 2000000000}","{'cycles': 954000000}",NULL,Black,115,NULL
+895,EVGA,02G-P3-2713-KR,"GeForce GT 710","{'total': 2000000000}","{'cycles': 954000000}",NULL,Black,115,NULL
+896,EVGA,02G-P3-2717-KR,"GeForce GT 710","{'total': 2000000000}","{'cycles': 954000000}",NULL,Black,115,NULL
+897,EVGA,02G-P3-2724-KR,"GeForce GT 720","{'total': 2000000000}","{'cycles': 797000000}",NULL,"Black / Green",167,NULL
+898,EVGA,02G-P3-2732-KR,"GeForce GT 730","{'total': 2000000000}","{'cycles': 700000000}",NULL,Black,144,NULL
+899,EVGA,02G-P3-2738-KR,"GeForce GT 730","{'total': 2000000000}","{'cycles': 700000000}",NULL,"Black / Green",167,NULL
+900,EVGA,02G-P3-3732-KR,"GeForce GT 730","{'total': 1000000000}","{'cycles': 902000000}",NULL,Black,145,NULL
+901,EVGA,02G-P3-3733-KR,"GeForce GT 730","{'total': 2000000000}","{'cycles': 902000000}",NULL,"Black / Green",144,NULL
+902,EVGA,02G-P3-3738-KR,"GeForce GT 730","{'total': 2000000000}","{'cycles': 902000000}",NULL,Black,145,NULL
+903,EVGA,02G-P4-0952,"GeForce GTX 950 75W","{'total': 2000000000}","{'cycles': 1025000000}","{'cycles': 1190000000}","Black / Gold",173,NULL
+904,EVGA,02G-P4-0954,"GeForce GTX 950 75W","{'total': 2000000000}","{'cycles': 1025000000}","{'cycles': 1190000000}","Black / Gold",173,NULL
+905,EVGA,02G-P4-1950-KR,"GeForce GTX 950","{'total': 2000000000}","{'cycles': 1025000000}","{'cycles': 1190000000}",Black,173,NULL
+906,EVGA,02G-P4-1954-KR,"GeForce GTX 950","{'total': 2000000000}","{'cycles': 1025000000}","{'cycles': 1190000000}",Black,173,NULL
+907,EVGA,02G-P4-2643-KR,"GeForce GT 640","{'total': 2000000000}","{'cycles': 901000000}",NULL,Black,170,NULL
+908,EVGA,02G-P4-2645-KR,"GeForce GT 640","{'total': 2000000000}","{'cycles': 901000000}",NULL,Black,170,NULL
+909,EVGA,02G-P4-2651-KR,"GeForce GTX 650","{'total': 2000000000}","{'cycles': 1058000000}",NULL,"Black / Silver",152,NULL
+910,EVGA,02G-P4-2653-KR,"GeForce GTX 650","{'total': 2000000000}","{'cycles': 1202000000}",NULL,"Black / Silver",152,NULL
+911,EVGA,02G-P4-2660-KR,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 993000000}",NULL,"Black / Silver",241,NULL
+912,EVGA,02G-P4-2661-KR,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 1046000000}",NULL,"Black / Silver",241,NULL
+913,EVGA,02G-P4-2662-KR,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 1046000000}",NULL,"Black / Silver",241,NULL
+914,EVGA,02G-P4-2663-KR,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 1072000000}",NULL,"Black / Silver",241,NULL
+915,EVGA,02G-P4-2668-KR,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 1072000000}",NULL,"Black / Silver",241,NULL
+916,EVGA,02G-P4-2670-KR,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 915000000}",NULL,"Black / Silver",241,NULL
+917,EVGA,02G-P4-2672-KR,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 967000000}",NULL,"Black / Silver",241,NULL
+918,EVGA,02G-P4-2676-KR,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 941000000}",NULL,Black,254,NULL
+919,EVGA,02G-P4-2678-KR,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 1006000000}",NULL,Black,254,NULL
+920,EVGA,02G-P4-2680-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1006000000}",NULL,Black,254,NULL
+921,EVGA,02G-P4-2681-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Silver",254,NULL
+922,EVGA,02G-P4-2682-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1058000000}",NULL,Black,254,NULL
+923,EVGA,02G-P4-2683-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1084000000}",NULL,"Black / Silver",254,NULL
+924,EVGA,02G-P4-2684-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1058000000}",NULL,Black,254,NULL
+925,EVGA,02G-P4-2685-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1084000000}",NULL,"Black / Silver",254,NULL
+926,EVGA,02G-P4-2687-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1097000000}",NULL,"Black / Silver",254,NULL
+927,EVGA,02G-P4-2740-KR,"GeForce GT 740","{'total': 2000000000}","{'cycles': 992000000}",NULL,Black,152,NULL
+928,EVGA,02G-P4-2760-KR,"GeForce GTX 760","{'total': 2000000000}","{'cycles': 980000000}",NULL,"Black / Silver",241,NULL
+929,EVGA,02G-P4-2761-KR,"GeForce GTX 760","{'total': 2000000000}","{'cycles': 980000000}",NULL,"Black / Silver",241,NULL
+930,EVGA,02G-P4-2762-KR,"GeForce GTX 760","{'total': 2000000000}","{'cycles': 1072000000}",NULL,"Black / Silver",241,NULL
+931,EVGA,02G-P4-2770-KR,"GeForce GTX 770","{'total': 2000000000}","{'cycles': 1046000000}",NULL,"Black / Gold",267,NULL
+932,EVGA,02G-P4-2771-KR,"GeForce GTX 770","{'total': 2000000000}","{'cycles': 1085000000}",NULL,"Black / Gold",266,NULL
+933,EVGA,02G-P4-2963-KR,"GeForce GTX 960","{'total': 2000000000}","{'cycles': 1127000000}","{'cycles': 1178000000}",Black,257,NULL
+934,EVGA,02G-P4-3063-KR,"GeForce GTX 660","{'total': 2000000000}","{'cycles': 1072000000}","{'cycles': 1137000000}",Black,241,NULL
+935,EVGA,02G-P4-3651-KR,"GeForce GTX 650 Ti","{'total': 2000000000}","{'cycles': 928000000}",NULL,Black,152,NULL
+936,EVGA,02G-P4-3653-KR,"GeForce GTX 650 Ti","{'total': 2000000000}","{'cycles': 1071000000}",NULL,Black,152,NULL
+937,EVGA,"02G-P4-3657-KR BOOST","GeForce GTX 650 Ti Boost","{'total': 2000000000}","{'cycles': 980000000}",NULL,Black,241,NULL
+938,EVGA,"02G-P4-3658-KR BOOST","GeForce GTX 650 Ti Boost","{'total': 2000000000}","{'cycles': 1072000000}",NULL,"Black / Silver",241,NULL
+939,EVGA,02G-P4-3660-KR,"GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 915000000}",NULL,"Black / Silver",241,NULL
+940,EVGA,02G-P4-3662-KR,"GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 967000000}",NULL,"Black / Silver",241,NULL
+941,EVGA,02G-P4-3664-KR,"GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 1046000000}",NULL,Black,254,NULL
+942,EVGA,02G-P4-3665-KR,"GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 915000000}",NULL,"Black / Silver",241,NULL
+943,EVGA,02G-P4-3667-KR,"GeForce GTX 660 Ti","{'total': 2000000000}","{'cycles': 1020000000}",NULL,"Black / Silver",254,NULL
+944,EVGA,02G-P4-3677-KR,"GeForce GTX 670","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Silver",241,NULL
+945,EVGA,02G-P4-3682-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Silver",NULL,NULL
+946,EVGA,02G-P4-3684-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1006000000}",NULL,"Black / Silver",266,NULL
+947,EVGA,02G-P4-3686-KR,"GeForce GTX 680","{'total': 2000000000}","{'cycles': 1084000000}",NULL,"Black / Silver",266,NULL
+948,EVGA,02G-P4-3740-KR,"GeForce GT 740","{'total': 2000000000}","{'cycles': 993000000}",NULL,Black,152,NULL
+949,EVGA,02G-P4-3751-KR,"GeForce GTX 750 Ti","{'total': 2000000000}","{'cycles': 1020000000}","{'cycles': 1085000000}","Black / Silver",170,NULL
+950,EVGA,02G-P4-3770-KR,"GeForce GTX 770","{'total': 2000000000}","{'cycles': 1046000000}","{'cycles': 1085000000}","Black / Silver",266,NULL
+951,EVGA,02G-P4-3771-KR,"GeForce GTX 770","{'total': 2000000000}","{'cycles': 1085000000}",NULL,"Black / Silver",266,NULL
+952,EVGA,02G-P4-6232-KR,"GeForce GT 1030 DDR4","{'total': 2000000000}","{'cycles': 1189000000}","{'cycles': 1460000000}",Black,145,NULL
+953,EVGA,02G-P4-6332-KR,"GeForce GT 1030","{'total': 2000000000}","{'cycles': 1290000000}","{'cycles': 1544000000}",NULL,145,NULL
+954,EVGA,02G-P4-6333-KR,"GeForce GT 1030","{'total': 2000000000}","{'cycles': 1290000000}","{'cycles': 1544000000}",Black,145,NULL
+955,EVGA,02G-P4-6338-KR,"GeForce GT 1030","{'total': 2000000000}","{'cycles': 1290000000}","{'cycles': 1544000000}",Gray,168,NULL
+956,EVGA,03G-P3-1584-AR,"GeForce GTX 580","{'total': 3000000000}","{'cycles': 772000000}",NULL,"Black / Green",266,NULL
+957,EVGA,03G-P3-1588-AR,"GeForce GTX 580","{'total': 3000000000}","{'cycles': 855000000}",NULL,Black,279,NULL
+958,EVGA,03G-P3-1594-KR,"GeForce GTX 580","{'total': 3000000000}","{'cycles': 855000000}",NULL,Black,279,NULL
+959,EVGA,03G-P3-1595-AR,"GeForce GTX 580","{'total': 3000000000}","{'cycles': 900000000}",NULL,Black,279,NULL
+960,EVGA,03G-P3-1596-AR,"GeForce GTX 590","{'total': 3000000000}","{'cycles': 630000000}",NULL,Black,279,NULL
+961,EVGA,03G-P4-2664-KR,"GeForce GTX 660","{'total': 3000000000}","{'cycles': 980000000}",NULL,"Black / Silver",241,NULL
+962,EVGA,03G-P4-2665-KR,"GeForce GTX 660","{'total': 3000000000}","{'cycles': 1046000000}",NULL,"Black / Silver",241,NULL
+963,EVGA,03G-P4-2667-KR,"GeForce GTX 660","{'total': 3000000000}","{'cycles': 1072000000}",NULL,"Black / Silver",241,NULL
+964,EVGA,03G-P4-2780-KR,"GeForce GTX 780","{'total': 3000000000}","{'cycles': 863000000}",NULL,"Black / Silver",267,NULL
+965,EVGA,03G-P4-2781-KR,"GeForce GTX 780","{'total': 3000000000}","{'cycles': 863000000}",NULL,"Black / Silver",266,NULL
+966,EVGA,03G-P4-2881-KR,"GeForce GTX 780 Ti","{'total': 3000000000}","{'cycles': 875000000}","{'cycles': 928000000}","Black / Silver",266,NULL
+967,EVGA,03G-P4-3661-KR,"GeForce GTX 660 Ti","{'total': 3000000000}","{'cycles': 915000000}",NULL,"Black / Silver",241,NULL
+968,EVGA,03G-P4-3666-KR,"GeForce GTX 660 Ti","{'total': 3000000000}","{'cycles': 915000000}",NULL,"Black / Silver",241,NULL
+969,EVGA,04G-P3-2739-KR,"GeForce GT 730","{'total': 4000000000}","{'cycles': 700000000}",NULL,"Black / Green",168,NULL
+970,EVGA,04G-P4-1970-KR,"GeForce GTX 970","{'total': 4000000000}","{'cycles': 1050000000}","{'cycles': 1178000000}","Black / Gray",241,NULL
+971,EVGA,04G-P4-1972-KR,"GeForce GTX 970","{'total': 4000000000}","{'cycles': 1140000000}","{'cycles': 1279000000}","Black / Gray",241,NULL
+972,EVGA,04G-P4-1976-KR,"GeForce GTX 970","{'total': 4000000000}","{'cycles': 1140000000}","{'cycles': 1279000000}","Black / Silver",242,NULL
+973,EVGA,04G-P4-1980-KR,"GeForce GTX 980","{'total': 4000000000}","{'cycles': 1126000000}","{'cycles': 1216000000}","Black / Silver",267,NULL
+974,EVGA,04G-P4-2647-KR,"GeForce GT 640","{'total': 4000000000}","{'cycles': 901000000}",NULL,Black,170,NULL
+975,EVGA,04G-P4-2649-KR,"GeForce GT 640","{'total': 4000000000}","{'cycles': 901000000}",NULL,"Black / Silver",170,NULL
+976,EVGA,04G-P4-2671-KR,"GeForce GTX 670","{'total': 4000000000}","{'cycles': 915000000}",NULL,"Black / Silver",241,NULL
+977,EVGA,04G-P4-2673-KR,"GeForce GTX 670","{'total': 4000000000}","{'cycles': 967000000}",NULL,"Black / Silver",241,NULL
+978,EVGA,04G-P4-2686-KR,"GeForce GTX 680","{'total': 4000000000}","{'cycles': 1019000000}",NULL,"Black / Silver",254,NULL
+979,EVGA,04G-P4-2690-KR,"GeForce GTX 690","{'total': 4000000000}","{'cycles': 915000000}",NULL,"Black / Silver",279,NULL
+980,EVGA,04G-P4-2692-KR,"GeForce GTX 690","{'total': 4000000000}","{'cycles': 915000000}",NULL,"Black / Silver",279,NULL
+981,EVGA,04G-P4-2766-KR,"GeForce GTX 760","{'total': 4000000000}","{'cycles': 980000000}",NULL,"Black / White",241,NULL
+982,EVGA,04G-P4-2980-KR,"GeForce GTX 980","{'total': 4000000000}","{'cycles': 1126000000}","{'cycles': 1216000000}","Black / Silver",267,NULL
+983,EVGA,04G-P4-3671-KR,"GeForce GTX 670","{'total': 4000000000}","{'cycles': 915000000}",NULL,"Black / Silver",254,NULL
+984,EVGA,04G-P4-3673-KR,"GeForce GTX 670","{'total': 4000000000}","{'cycles': 1006000000}",NULL,"Black / Silver",254,NULL
+985,EVGA,04G-P4-3685-KR,"GeForce GTX 680","{'total': 4000000000}","{'cycles': 1006000000}",NULL,"Black / Silver",266,NULL
+986,EVGA,04G-P4-3687-KR,"GeForce GTX 680","{'total': 4000000000}","{'cycles': 1084000000}",NULL,"Black / Silver",266,NULL
+987,EVGA,04G-P4-3688-KR,"GeForce GTX 680","{'total': 4000000000}","{'cycles': 1111000000}",NULL,"Black / Silver",266,NULL
+988,EVGA,04G-P4-3960-KR,"GeForce GTX 960","{'total': 4000000000}","{'cycles': 1127000000}","{'cycles': 1178000000}","Black / Gray",257,NULL
+989,EVGA,06G-P4-0998-KR,"GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1190000000}","{'cycles': 1291000000}","Black / Silver",280,NULL
+990,EVGA,06G-P4-2790-KR,"GeForce GTX Titan","{'total': 6000000000}","{'cycles': 836000000}",NULL,"Black / Silver",267,NULL
+991,EVGA,06G-P4-3790-KR,"GeForce GTX Titan Black","{'total': 6000000000}","{'cycles': 889000000}","{'cycles': 980000000}","Black / Silver",266,NULL
+992,EVGA,06G-P4-4990-KR,"GeForce GTX 980 Ti","{'total': 6000000000}","{'cycles': 1000000000}","{'cycles': 1076000000}","Black / Silver",267,NULL
+993,EVGA,08G-P4-5180,"GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1733000000}","Black / Silver",268,NULL
+994,EVGA,08G-P4-5184-KR,"GeForce GTX 1080","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1733000000}","Black / Silver",267,NULL
+995,EVGA,08G-P4-5671-KB,"GeForce GTX 1070 Ti","{'total': 8000000000}","{'cycles': 1607000000}","{'cycles': 1683000000}","Black / Silver",267,NULL
+996,EVGA,128-P2-N428-LR,"GeForce 7200 GS","{'total': 500000000}","{'cycles': 450000000}",NULL,"Black / Green",NULL,NULL
+997,EVGA,12G-P4-2990-KR,"GeForce GTX Titan X","{'total': 12000000000}","{'cycles': 1000000000}","{'cycles': 1075000000}","Black / Silver",282,NULL
+998,EVGA,12G-P4-3990-KR,"GeForce GTX Titan Z","{'total': 12000000000}","{'cycles': 705000000}","{'cycles': 876000000}","Black / Silver",267,NULL
+999,EVGA,256-P2-N429-LR,"GeForce 7200 GS","{'total': 250000000}","{'cycles': 450000000}",NULL,"Black / Green",NULL,NULL
