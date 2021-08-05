@@ -1,0 +1,793 @@
+{
+ "lista_de_precos": [
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD 2650",
+   "preco": "R$ 159,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD 3850",
+   "preco": "R$ 195,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD 5150",
+   "preco": "R$ 200,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD 5350",
+   "preco": "R$ 299,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A10-5700",
+   "preco": "R$ 299,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A10-5800K",
+   "preco": "R$ 309,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A10-7700K",
+   "preco": "R$ 380,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A10-9700",
+   "preco": "R$ 499,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A4-3300",
+   "preco": "R$ 150,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A4-3400",
+   "preco": "R$ 150,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A4-4000",
+   "preco": "R$ 99,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A4-5300",
+   "preco": "R$ 104,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A4-6300",
+   "preco": "R$ 99,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A4-7300",
+   "preco": "R$ 149,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A6-3670K",
+   "preco": "R$ 250,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A6-5400K",
+   "preco": "R$ 129,90"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A6-7400K",
+   "preco": "R$ 279,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A6-7480",
+   "preco": "R$ 219,90"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A6-9500",
+   "preco": "R$ 289,90"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A8-3850",
+   "preco": "R$ 390,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A8-5500",
+   "preco": "R$ 259,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A8-5600K",
+   "preco": "R$ 205,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A8-6500",
+   "preco": "R$ 280,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A8-7600",
+   "preco": "R$ 350,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A8-7650K",
+   "preco": "R$ 350,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD A8-9600",
+   "preco": "R$ 389,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Athlon 200GE",
+   "preco": "R$ 430,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Athlon 240GE",
+   "preco": "R$ 499,90"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Athlon 3000G",
+   "preco": "R$ 399,90"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Athlon II X2 215",
+   "preco": "R$ 750,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Athlon II X2 240",
+   "preco": "R$ 220,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Athlon X4 940",
+   "preco": "R$ 449,98"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Athlon X4 970",
+   "preco": "R$ 800,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-4300",
+   "preco": "R$ 189,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-6100",
+   "preco": "R$ 220,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-6200",
+   "preco": "R$ 320,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-6300",
+   "preco": "R$ 279,90"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-8120",
+   "preco": "R$ 370,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-8150",
+   "preco": "R$ 550,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-8300",
+   "preco": "R$ 449,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-8320",
+   "preco": "R$ 399,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-8350",
+   "preco": "R$ 549,99"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD FX-9590",
+   "preco": "R$ 1.400,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Phenom II X4 920",
+   "preco": "R$ 449,98"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/",
+   "nomePeca": "AMD Phenom II X4 970",
+   "preco": "R$ 800,00"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  },
+  {
+   "item": "https://www.boadica.com.br/"
+  }
+ ]
+}
