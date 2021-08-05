@@ -5,6 +5,8 @@ import numpy as np
 # Insira sua api_key e projectToken do Parsehub
 api_key = ''
 projectToken = ''
+
+# Insira os dados de seu banco MySQL
 host = 'localhost'
 user = 'root'
 password = 'root'
