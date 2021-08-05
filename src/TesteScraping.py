@@ -2,8 +2,9 @@ from ParsehubController import ParsehubController
 from DatabaseController import DatabaseController
 import numpy as np
 
-api_key = 't6r73ukhko6p'
-projectToken = 't2qk9uEG2OXK'
+# Insira sua api_key e projectToken do Parsehub
+api_key = ''
+projectToken = ''
 host = 'localhost'
 user = 'root'
 password = 'root'
